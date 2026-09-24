@@ -1,0 +1,33 @@
+{
+  "verified_at": "2026-09-24T06:04:43.501548+00:00",
+  "scores": [
+    {
+      "round": "off_p1",
+      "verified_score": 60
+    },
+    {
+      "round": "off_p2",
+      "verified_score": 54
+    },
+    {
+      "round": "off_p3",
+      "verified_score": 55
+    },
+    {
+      "round": "on_p1",
+      "verified_score": 66
+    },
+    {
+      "round": "on_p2",
+      "verified_score": 67
+    },
+    {
+      "round": "on_p3",
+      "verified_score": 68
+    }
+  ],
+  "all_nine_seals_before_key_reveal": true,
+  "all_nine_archives_match": true,
+  "valid_model_calls": 62,
+  "conditions_match": true
+}

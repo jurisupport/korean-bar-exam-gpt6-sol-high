@@ -1,0 +1,15 @@
+{
+  "sealed_at": "2026-09-24T05:59:41.718379+00:00",
+  "sha256": "c613960c172cfcdd734d6a56442f46fb573ce100fad025aae8a73bcde5120024",
+  "conditions_verified": true,
+  "files": {
+    "23-48_attempt_01/events.jsonl": "6874fcab787eb54e524f1d8ad115c072ddce8b48c0126af7a787859302df1c70",
+    "23-48_attempt_01/invocation.json": "c0b626147540cd32924bfef46aedc6ecd9a3f44d3e4b3f5ac8e293e0878c26e3",
+    "23-48_attempt_01/prompt.md": "d0c1c439014bc9f2dc73fce70a06a3e37c6047063fa28574a421700f53b33541",
+    "23-48_attempt_01/response.json": "a7a8daab8c95a6b32491b163a72aebe7732de2ea1945515c8526077491215171",
+    "23-48_attempt_01/stderr.log": "769c562011e2c42c04217b014559bb1168f4c0823e5add67a964cd246bbc44f9",
+    "answers.json": "c613960c172cfcdd734d6a56442f46fb573ce100fad025aae8a73bcde5120024",
+    "part_23-48.json": "c613960c172cfcdd734d6a56442f46fb573ce100fad025aae8a73bcde5120024",
+    "part_23-48.seal.json": "34026cac7419cbf562bbd39ca5e349ce65b8601507e5490db215c8ddad1678f3"
+  }
+}

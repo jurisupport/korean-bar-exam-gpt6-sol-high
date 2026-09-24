@@ -1,0 +1,33 @@
+{
+  "registered_at": "2026-09-23T06:56:12.192363+00:00",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "high",
+  "codex_version": "0.155.1",
+  "source_commit": "2a93864e0667b65891fc3c75769fb62b584a3029",
+  "textbook": {
+    "url": "http://127.0.0.1:8768",
+    "health": {
+      "status": "ok",
+      "embeddings_loaded": 17167,
+      "mode": "hybrid"
+    },
+    "docs": 18,
+    "embeddings": 17167,
+    "db_sha256": "228d3b211facd62b4c2ba9b3709457d214bb3160e5e01971409eac82ba72040b"
+  },
+  "korean_law": {
+    "version": "4.14.0",
+    "package_sha256": "4c57a2ec8a63e392b1b0b8fe13bb50c026ab30e8bf6884fcd5ab53e8dd0d9e57"
+  },
+  "precedent_body_search": "https://www.law.go.kr/DRF/lawSearch.do?target=prec&search=2",
+  "limitations": [
+    "Fresh-session and prompt/tool isolation, not OS-level read isolation.",
+    "Reference README aggregate scores and wrong-question numbers seen by coordinator; no coordinator context is passed to solvers.",
+    "Source corpus byte identity not published; exact expected 18 docs and17167 embeddings verified.",
+    "Model and effort intentionally changed to gpt-6-sol/high; CLI changed from Claude Code to Codex.",
+    "Question text injected by assigned range; JSON final response captured by runner.",
+    "Textbook service port8770 changed to8768 to preserve existing service.",
+    "Korean-law MCP4.14.0 uses current equivalent tool names; exam cutoff remains2026-01-05.",
+    "All grading postponed until six primary rounds and three diagnostic repass seals exist."
+  ]
+}

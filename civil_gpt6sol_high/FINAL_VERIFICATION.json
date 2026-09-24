@@ -1,0 +1,691 @@
+{
+  "verified_at": "2026-09-24T06:03:49.486824+00:00",
+  "conditions_match": true,
+  "nine_round_archives_match": true,
+  "valid_model_calls": [
+    {
+      "round": "off_p1",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "8-14_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "22-28_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "29-35_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "1-7_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p1",
+      "attempt": "15-21_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "8-14_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "22-28_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "29-35_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "1-7_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p1",
+      "attempt": "15-21_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on-repass_p1",
+      "attempt": "23-48_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "8-14_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "22-28_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "29-35_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "1-7_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p2",
+      "attempt": "15-21_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "8-14_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "22-28_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "29-35_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "1-7_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p2",
+      "attempt": "15-21_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on-repass_p2",
+      "attempt": "23-48_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "8-14_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "22-28_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "29-35_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "1-7_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "off_p3",
+      "attempt": "15-21_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "error"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "52-58_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "44-51_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "8-14_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "22-28_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "29-35_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "36-43_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "65-70_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "59-64_attempt_01",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "1-7_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    },
+    {
+      "round": "on_p3",
+      "attempt": "15-21_attempt_02",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "tool_items": [
+        "agent_message",
+        "command_execution",
+        "error",
+        "mcp_tool_call"
+      ]
+    }
+  ]
+}

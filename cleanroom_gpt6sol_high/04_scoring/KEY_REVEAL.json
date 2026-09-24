@@ -1,0 +1,17 @@
+{
+  "reveal_started_at": "2026-09-22T22:05:51.580705+00:00",
+  "all_six_verified_before_reveal": true,
+  "sealed_sha256": {
+    "Foff1": "0060528e7052bf69eb5f90df486dbf75dd3ae57e935fa728529f3a2e53ec8035",
+    "Foff2": "bc504a325e8fcbbdfe988e5fa1c8125f6f698fc4db78914ff566db4a58233996",
+    "Foff3": "2046cc0dcdfb45dde6723387845957ce424f6d5c81f7561f97b71e0b7f43e863",
+    "F1": "76f3ee3dcdfbd6ab23c27dd36158461a4b670f72087f88e329cceb3f1ba5d897",
+    "F2": "2bb7a91eff69c498d5f4d04033d06a121a6d7315655d8df7c965dbf718dffb6c",
+    "F3": "90da28e2a751bbef606d6161e4a6521708c8e0ebe7a181f15d1d32d2dc1a0376"
+  },
+  "source_commit": "066357fedbaf2827aa575e4880adf9baf1679fcc",
+  "source_key_url": "https://raw.githubusercontent.com/jurisupport/korean-bar-exam-agent-eval/066357fedbaf2827aa575e4880adf9baf1679fcc/experiment/03_answer_key/%EA%B3%B5%EB%B2%95_%EC%A0%95%EB%8B%B5.json",
+  "key_downloaded_at": "2026-09-22T22:05:52.192976+00:00",
+  "key_sha256": "69d5577e675bb90be1233b947070b23aaf3a10c8dc212619d70a1a48a42ab23a",
+  "upstream_checksum_match": true
+}

@@ -1,0 +1,11 @@
+# SEAL — 클린룸 F2 제15회 공법 선택형 (정답표 격리 상태에서 봉인)
+봉인 시각: 2026-09-23 06:05:47 KST
+[픽스처]      430a7396c3d359f886741aa339ce665cef5a4b34b652cbbc2f6b5f37c4b1bdd1  00_fixtures/공법_문항.md
+[OFF프롬프트]  69d41fe2dc84a534e27b6290d849e1dbaab29235f4f0b8a6e211728e941b38b1  tools/f_off_prompt.md
+[배치프롬프트] ee7a93fc1be4704b116acdf8cf2d592304c5bf1c33a2ce232661913224a551a3  tools/f_batch_prompt.md
+[딥다이브]    c655f6a0329a47aea992ff5d2de1b212cf6e113ee8a86976fa2c7ea049b971ad  tools/f_deepdive_prompt.md
+[봉인답안]    2bb7a91eff69c498d5f4d04033d06a121a6d7315655d8df7c965dbf718dffb6c  01_sealed/F2.json
+답렬: 5154254145523313213113535521441432421534
+경합표시(blind): [1, 2, 5, 6, 7, 8, 9, 11, 18, 19, 24, 29, 30, 31, 32, 38]
+잔차분류: {'evidence': [2, 5, 9, 19, 24]}
+recall_flag(오염 감사, F0만): 없음

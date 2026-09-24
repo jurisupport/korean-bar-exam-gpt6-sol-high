@@ -1,0 +1,654 @@
+{
+  "publication_date_kst": "2026-09-25",
+  "note": "Curated post-run publication. Original answers and answer keys retain their bytes; local home paths are replaced with /LOCAL_USER in metadata, Markdown links are made relative, and the public-law report clarifies provisional-key metadata. Raw logs, local Git histories and corpus files are not included. Hashes of omitted files in historical seals are archival references, not a claim that those files are published.",
+  "files": [
+    {
+      "path": "civil_gpt6sol_high/00_fixtures/민사법_문항.md",
+      "source_sha256": "3db3b158089d6d3be09269d4d23b2a1a6b51a8293a730aafd7900f9176448a0b",
+      "published_sha256": "3db3b158089d6d3be09269d4d23b2a1a6b51a8293a730aafd7900f9176448a0b",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/03_answer_key/민사법_정답.json",
+      "source_sha256": "c5b4330652dec9773a4c221e39d68ac626ffdb93b5b0e36c9c4230097bdf80d4",
+      "published_sha256": "c5b4330652dec9773a4c221e39d68ac626ffdb93b5b0e36c9c4230097bdf80d4",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/FINAL_VERIFICATION.json",
+      "source_sha256": "fa89e3960ede3428b7993b83366bb2a14baed5e9dece2e8a7324f66c7cd908c5",
+      "published_sha256": "fa89e3960ede3428b7993b83366bb2a14baed5e9dece2e8a7324f66c7cd908c5",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/INCIDENTS.md",
+      "source_sha256": "e7f437a0bd50e861d317b1a30a7d29c185a71b9e65dec053b90727282fb648bd",
+      "published_sha256": "e7f437a0bd50e861d317b1a30a7d29c185a71b9e65dec053b90727282fb648bd",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/KEY_REVEAL.json",
+      "source_sha256": "d6ef39f41603ed94e665a4feb499ca3edb79624a27b51da674b7fadacfe144db",
+      "published_sha256": "d6ef39f41603ed94e665a4feb499ca3edb79624a27b51da674b7fadacfe144db",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/ON_ENVIRONMENT.json",
+      "source_sha256": "50c94b3639f8849269951cb5c0da880530c47930346045a9bf1ea1b5edc18820",
+      "published_sha256": "50c94b3639f8849269951cb5c0da880530c47930346045a9bf1ea1b5edc18820",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/PREREG.md",
+      "source_sha256": "32366fee7456514aca1ec96232197faca82562de1cd229992735a81124323b2d",
+      "published_sha256": "32366fee7456514aca1ec96232197faca82562de1cd229992735a81124323b2d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/PREREG_AMENDMENT_01.md",
+      "source_sha256": "06d77ee350d3df8039616bb9766c39abcbdb6ae7f345df63cd2b25090f736a4f",
+      "published_sha256": "06d77ee350d3df8039616bb9766c39abcbdb6ae7f345df63cd2b25090f736a4f",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/PREREG_AMENDMENT_02.md",
+      "source_sha256": "d2766caf51e94262c52bbc0891c5813c38201fe57372aed0d1757d9912814ac3",
+      "published_sha256": "d2766caf51e94262c52bbc0891c5813c38201fe57372aed0d1757d9912814ac3",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/PREREG_HASHES.json",
+      "source_sha256": "d7be4d50ff989bb69e966498a6acc64dfde2126334c45179dc7d1605a010fd42",
+      "published_sha256": "d7be4d50ff989bb69e966498a6acc64dfde2126334c45179dc7d1605a010fd42",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/REPORT.md",
+      "source_sha256": "bc95deb3f880b65a0f49ec217e91a2ce6d0cf7ed18f54c19f5597645ab1ba92c",
+      "published_sha256": "bc95deb3f880b65a0f49ec217e91a2ce6d0cf7ed18f54c19f5597645ab1ba92c",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/SUMMARY.json",
+      "source_sha256": "2cb9362d06a05589490140d7a7724d23f986c6e486b1a47eb4d6e44aae232f64",
+      "published_sha256": "2cb9362d06a05589490140d7a7724d23f986c6e486b1a47eb4d6e44aae232f64",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/meta/independent_final_check.json",
+      "source_sha256": "7ad1319c1c872ada6657dd51f55b06c71b3801c78adb44153f5127c4ae80c1db",
+      "published_sha256": "7ad1319c1c872ada6657dd51f55b06c71b3801c78adb44153f5127c4ae80c1db",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/prompts/off.md",
+      "source_sha256": "9d775975a686a431d94e2a63fd8d11558a9c65815fc903bbc5162ae1c00699f2",
+      "published_sha256": "9d775975a686a431d94e2a63fd8d11558a9c65815fc903bbc5162ae1c00699f2",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/prompts/on-repass.md",
+      "source_sha256": "4e1ff716b13b9a6a64ec1f254f96dedaf34b918c1bb8ef4551811477a9513a28",
+      "published_sha256": "4e1ff716b13b9a6a64ec1f254f96dedaf34b918c1bb8ef4551811477a9513a28",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/prompts/on.md",
+      "source_sha256": "7bb47c5a9e3b0e25c9c7aebea0d7757c5e1b5ad86d0c97f9885f28fb3ac27504",
+      "published_sha256": "7bb47c5a9e3b0e25c9c7aebea0d7757c5e1b5ad86d0c97f9885f28fb3ac27504",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p1/SEAL.json",
+      "source_sha256": "6757f8e9c650d79bf5a1722f2d112d1576688adb727886ec13e89426d83cd652",
+      "published_sha256": "6757f8e9c650d79bf5a1722f2d112d1576688adb727886ec13e89426d83cd652",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p1/answers.json",
+      "source_sha256": "a4f5eb36c52fc5916ad25e967e17446603acfc6f5174178842f7a257697b97c6",
+      "published_sha256": "a4f5eb36c52fc5916ad25e967e17446603acfc6f5174178842f7a257697b97c6",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p2/SEAL.json",
+      "source_sha256": "ce540293215a34302ae9f9aafaaca294118eb29c70f7357c77a19df28de866cb",
+      "published_sha256": "ce540293215a34302ae9f9aafaaca294118eb29c70f7357c77a19df28de866cb",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p2/answers.json",
+      "source_sha256": "60f19943bb823ac4a9a8b6aa6cdbc93f8f876de406db045a5054a8d075c560d1",
+      "published_sha256": "60f19943bb823ac4a9a8b6aa6cdbc93f8f876de406db045a5054a8d075c560d1",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p3/SEAL.json",
+      "source_sha256": "7d256ed40e8abdc5ff8c17d291415f64abe4dcccddea34fe9017e10f6740bc41",
+      "published_sha256": "7d256ed40e8abdc5ff8c17d291415f64abe4dcccddea34fe9017e10f6740bc41",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/off_p3/answers.json",
+      "source_sha256": "c0501b1121eae6ddcc9e384aec4deb14d0e1cc95e88fbf29b9ad2d3c3b3cf6ff",
+      "published_sha256": "c0501b1121eae6ddcc9e384aec4deb14d0e1cc95e88fbf29b9ad2d3c3b3cf6ff",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p1/SEAL.json",
+      "source_sha256": "52ea96120b26dbaa37ddd348829a6b584ce24acda20eda113e7c00ee297b4ef0",
+      "published_sha256": "52ea96120b26dbaa37ddd348829a6b584ce24acda20eda113e7c00ee297b4ef0",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p1/answers.json",
+      "source_sha256": "c613960c172cfcdd734d6a56442f46fb573ce100fad025aae8a73bcde5120024",
+      "published_sha256": "c613960c172cfcdd734d6a56442f46fb573ce100fad025aae8a73bcde5120024",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p2/SEAL.json",
+      "source_sha256": "4ca18332604ff213d4ff5471dce5fc29f0e1852d5995b78f415c90724940232a",
+      "published_sha256": "4ca18332604ff213d4ff5471dce5fc29f0e1852d5995b78f415c90724940232a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p2/answers.json",
+      "source_sha256": "57c6612484300e7b464cc235b995bb4c70fe348a7aab6452dddf007f5cd60802",
+      "published_sha256": "57c6612484300e7b464cc235b995bb4c70fe348a7aab6452dddf007f5cd60802",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p3/SEAL.json",
+      "source_sha256": "38424fa917214010bf055a6b78176102e51a551627edd58f1dd3928e6eecb38d",
+      "published_sha256": "38424fa917214010bf055a6b78176102e51a551627edd58f1dd3928e6eecb38d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on-repass_p3/answers.json",
+      "source_sha256": "82f7f0b9e6f4a3f06fcba51a414a057a8c2e9d1ec9aa2a1e5808838f9576faad",
+      "published_sha256": "82f7f0b9e6f4a3f06fcba51a414a057a8c2e9d1ec9aa2a1e5808838f9576faad",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p1/SEAL.json",
+      "source_sha256": "ff040f99c274e2f74e1872c32aec1d9ff49eedfc0ed5d72c84d61e9752a9679e",
+      "published_sha256": "ff040f99c274e2f74e1872c32aec1d9ff49eedfc0ed5d72c84d61e9752a9679e",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p1/answers.json",
+      "source_sha256": "9b1d9075a5f3eac8eae7946f88b810b6dc664dc0d8a092b2873d31884cd46a01",
+      "published_sha256": "9b1d9075a5f3eac8eae7946f88b810b6dc664dc0d8a092b2873d31884cd46a01",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p2/SEAL.json",
+      "source_sha256": "458da835a58ddae37bd182efb5a27ae96fdd0af23c58dee02e48edb6f3c5cbcb",
+      "published_sha256": "458da835a58ddae37bd182efb5a27ae96fdd0af23c58dee02e48edb6f3c5cbcb",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p2/answers.json",
+      "source_sha256": "c6c43a2ad4469810f82c48c552a576a6e2afd2648e9015739449a22b9710261c",
+      "published_sha256": "c6c43a2ad4469810f82c48c552a576a6e2afd2648e9015739449a22b9710261c",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p3/SEAL.json",
+      "source_sha256": "7db5e8556830472e071ca128ed0048510d8d89d1f43e5194a75ca748369a35e2",
+      "published_sha256": "7db5e8556830472e071ca128ed0048510d8d89d1f43e5194a75ca748369a35e2",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_gpt6sol_high/runs/on_p3/answers.json",
+      "source_sha256": "19aef45c160b24e865984bc55bcea5fd8a98eeb642baad59720be0ad47af913b",
+      "published_sha256": "19aef45c160b24e865984bc55bcea5fd8a98eeb642baad59720be0ad47af913b",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_reference/NOTICE.md",
+      "source_sha256": "519c9a98bfb6d76004b34b09f28b25f9215f5a2d11b4e4bcd4d4ff2435e525aa",
+      "published_sha256": "519c9a98bfb6d76004b34b09f28b25f9215f5a2d11b4e4bcd4d4ff2435e525aa",
+      "edited_for_publication": false
+    },
+    {
+      "path": "civil_reference/SOURCE_COMMIT.txt",
+      "source_sha256": "097135115a97b410a83c4e3dbf21386047e2c94dafa0aea4051fe2b6a9e36ca0",
+      "published_sha256": "097135115a97b410a83c4e3dbf21386047e2c94dafa0aea4051fe2b6a9e36ca0",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/00_fixtures/공법_문항.md",
+      "source_sha256": "430a7396c3d359f886741aa339ce665cef5a4b34b652cbbc2f6b5f37c4b1bdd1",
+      "published_sha256": "430a7396c3d359f886741aa339ce665cef5a4b34b652cbbc2f6b5f37c4b1bdd1",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/F1.json",
+      "source_sha256": "76f3ee3dcdfbd6ab23c27dd36158461a4b670f72087f88e329cceb3f1ba5d897",
+      "published_sha256": "76f3ee3dcdfbd6ab23c27dd36158461a4b670f72087f88e329cceb3f1ba5d897",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/F2.json",
+      "source_sha256": "2bb7a91eff69c498d5f4d04033d06a121a6d7315655d8df7c965dbf718dffb6c",
+      "published_sha256": "2bb7a91eff69c498d5f4d04033d06a121a6d7315655d8df7c965dbf718dffb6c",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/F3.json",
+      "source_sha256": "90da28e2a751bbef606d6161e4a6521708c8e0ebe7a181f15d1d32d2dc1a0376",
+      "published_sha256": "90da28e2a751bbef606d6161e4a6521708c8e0ebe7a181f15d1d32d2dc1a0376",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/Foff1.json",
+      "source_sha256": "0060528e7052bf69eb5f90df486dbf75dd3ae57e935fa728529f3a2e53ec8035",
+      "published_sha256": "0060528e7052bf69eb5f90df486dbf75dd3ae57e935fa728529f3a2e53ec8035",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/Foff2.json",
+      "source_sha256": "bc504a325e8fcbbdfe988e5fa1c8125f6f698fc4db78914ff566db4a58233996",
+      "published_sha256": "bc504a325e8fcbbdfe988e5fa1c8125f6f698fc4db78914ff566db4a58233996",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/Foff3.json",
+      "source_sha256": "2046cc0dcdfb45dde6723387845957ce424f6d5c81f7561f97b71e0b7f43e863",
+      "published_sha256": "2046cc0dcdfb45dde6723387845957ce424f6d5c81f7561f97b71e0b7f43e863",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_F1.txt",
+      "source_sha256": "a39b4c05e071e57db2928da8530567c521d7ce3fb7c00c38a2a2ed0a37e5e3b8",
+      "published_sha256": "a39b4c05e071e57db2928da8530567c521d7ce3fb7c00c38a2a2ed0a37e5e3b8",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_F2.txt",
+      "source_sha256": "78714c25e15840e209f1396be7f42feaf30c116d1e7fdcff961a37f08047cb5d",
+      "published_sha256": "78714c25e15840e209f1396be7f42feaf30c116d1e7fdcff961a37f08047cb5d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_F3.txt",
+      "source_sha256": "1dc47313710b10862601e5037ce4e3b5dc3c15777ddcfada2cc81f399b102c8e",
+      "published_sha256": "1dc47313710b10862601e5037ce4e3b5dc3c15777ddcfada2cc81f399b102c8e",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_Foff1.txt",
+      "source_sha256": "b8e62cb46b9a3ceca7c26f4e3643e2148517a48f5904f77f24ae4eacefd4a157",
+      "published_sha256": "b8e62cb46b9a3ceca7c26f4e3643e2148517a48f5904f77f24ae4eacefd4a157",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_Foff2.txt",
+      "source_sha256": "f3701fbfcd1acebbac35b7ecea2a89361b3b965be1098a915c1ac569fbb156df",
+      "published_sha256": "f3701fbfcd1acebbac35b7ecea2a89361b3b965be1098a915c1ac569fbb156df",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/01_sealed/SEAL_Foff3.txt",
+      "source_sha256": "208f2aaee45abeff6317fc0b4279cdceb4287ce68aa5d993029fea0431fdfd2d",
+      "published_sha256": "208f2aaee45abeff6317fc0b4279cdceb4287ce68aa5d993029fea0431fdfd2d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/02_logs/model_invocation_verification.json",
+      "source_sha256": "850abf22c90d1fff83e3397963a51583c15a23af03d8f1ded58d0f7f90b41d65",
+      "published_sha256": "850abf22c90d1fff83e3397963a51583c15a23af03d8f1ded58d0f7f90b41d65",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/02_logs/seal_verification.json",
+      "source_sha256": "f3f4584bd35db1fff90765f9f6093aa410c45cf896238e8607e8de8a910b8e11",
+      "published_sha256": "f3f4584bd35db1fff90765f9f6093aa410c45cf896238e8607e8de8a910b8e11",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/03_answer_key/공법_정답.json",
+      "source_sha256": "69d5577e675bb90be1233b947070b23aaf3a10c8dc212619d70a1a48a42ab23a",
+      "published_sha256": "69d5577e675bb90be1233b947070b23aaf3a10c8dc212619d70a1a48a42ab23a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/04_scoring/FINAL_VERIFICATION.json",
+      "source_sha256": "ef1fd63cf2df2c3c35297bb45401841788f82a239b8786c2cd14e73b65fd9593",
+      "published_sha256": "ef1fd63cf2df2c3c35297bb45401841788f82a239b8786c2cd14e73b65fd9593",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/04_scoring/GRADE.txt",
+      "source_sha256": "62edd926b515d7360edf9f51ee6d7cbd61f639576881402642d3cf7d7daa74d8",
+      "published_sha256": "62edd926b515d7360edf9f51ee6d7cbd61f639576881402642d3cf7d7daa74d8",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/04_scoring/KEY_REVEAL.json",
+      "source_sha256": "3409fd3acb80f483121ad111ea72739db4b3f4c34900b80bc6db610cf747f952",
+      "published_sha256": "3409fd3acb80f483121ad111ea72739db4b3f4c34900b80bc6db610cf747f952",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/04_scoring/SUMMARY.json",
+      "source_sha256": "3808bb343fbc5ee3fb94364f70261d4c30b1fa837ccc00fb5bc3d5e747012cf6",
+      "published_sha256": "3808bb343fbc5ee3fb94364f70261d4c30b1fa837ccc00fb5bc3d5e747012cf6",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/04_scoring/upstream_SHA256SUMS.txt",
+      "source_sha256": "46c2067fe1b68df7dd8170c69ad5c18167e146ec00b8609e20619e9871f297f0",
+      "published_sha256": "46c2067fe1b68df7dd8170c69ad5c18167e146ec00b8609e20619e9871f297f0",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/ON_ENVIRONMENT.json",
+      "source_sha256": "3940916e9b57eeb641bba24cef0af1cab0a858364632eef5f7f32f808c073597",
+      "published_sha256": "3940916e9b57eeb641bba24cef0af1cab0a858364632eef5f7f32f808c073597",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/PREREG.md",
+      "source_sha256": "c09f435c2a1e38bb52ab0900520cfe92e84b72b0211ac6d19ffde45f506247de",
+      "published_sha256": "c09f435c2a1e38bb52ab0900520cfe92e84b72b0211ac6d19ffde45f506247de",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/PREREG_AMENDMENT_01.md",
+      "source_sha256": "bf123f2f41ec0bf52fa931a62a67d532a599119a2f9c82e87d6aedfe6cf5d5b9",
+      "published_sha256": "bf123f2f41ec0bf52fa931a62a67d532a599119a2f9c82e87d6aedfe6cf5d5b9",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/PREREG_ON.md",
+      "source_sha256": "e5ad1a300e3f9c0ccbf74ab4e99c81061010814a657d6d76c8aa8a59dec55d8e",
+      "published_sha256": "e5ad1a300e3f9c0ccbf74ab4e99c81061010814a657d6d76c8aa8a59dec55d8e",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/REPORT.md",
+      "source_sha256": "24c2028ef1f654a326ea085018bec6d181b90cd8988e203737ad9e34acb8dc58",
+      "published_sha256": "9f74154bdba167bb348e2c9d219d8631a5d2baacc32c64ede613625aea88206d",
+      "edited_for_publication": true
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/RUNBOOK.md",
+      "source_sha256": "f4eb4870d86b444781a8ee4f0e27215bd7d55e337e165a424bd78c703f719d09",
+      "published_sha256": "f4eb4870d86b444781a8ee4f0e27215bd7d55e337e165a424bd78c703f719d09",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/invalid_attempts/F3_q31_scope_repair/INCIDENT.json",
+      "source_sha256": "0d6a41afcae01b5303b371a55c2bbeb53c0edee047d0df845d91a41cb9611276",
+      "published_sha256": "0d6a41afcae01b5303b371a55c2bbeb53c0edee047d0df845d91a41cb9611276",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/tools/f_batch_prompt.md",
+      "source_sha256": "ee7a93fc1be4704b116acdf8cf2d592304c5bf1c33a2ce232661913224a551a3",
+      "published_sha256": "ee7a93fc1be4704b116acdf8cf2d592304c5bf1c33a2ce232661913224a551a3",
+      "edited_for_publication": false
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/tools/f_deepdive_prompt.md",
+      "source_sha256": "c655f6a0329a47aea992ff5d2de1b212cf6e113ee8a86976fa2c7ea049b971ad",
+      "published_sha256": "35b97a3d47fd438b44fdcfbff4229fd3f75bbee68e7cfeecf349617299a017ab",
+      "edited_for_publication": true
+    },
+    {
+      "path": "cleanroom_gpt6sol_high/tools/f_off_prompt.md",
+      "source_sha256": "69d41fe2dc84a534e27b6290d849e1dbaab29235f4f0b8a6e211728e941b38b1",
+      "published_sha256": "69d41fe2dc84a534e27b6290d849e1dbaab29235f4f0b8a6e211728e941b38b1",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/00_fixtures/형사법_문항.md",
+      "source_sha256": "e9cfd635afdabbc6bb726742ab258edf079d1253cc5b21fdae346c916ba21c1f",
+      "published_sha256": "e9cfd635afdabbc6bb726742ab258edf079d1253cc5b21fdae346c916ba21c1f",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/03_answer_key/형사법_정답.json",
+      "source_sha256": "e1cb747ef8d59551c9c6f518be631d8b817943b759af6b44c5f7344ae6f1a4ef",
+      "published_sha256": "e1cb747ef8d59551c9c6f518be631d8b817943b759af6b44c5f7344ae6f1a4ef",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/CONTINUATION.json",
+      "source_sha256": "26b78d711ec56d51187ae449132eae6669d6f44f4ec34ef8ae731633a05d64fe",
+      "published_sha256": "26b78d711ec56d51187ae449132eae6669d6f44f4ec34ef8ae731633a05d64fe",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/FINAL_VERIFICATION.json",
+      "source_sha256": "93655401aa3aef73380e6b98882c849b3e204272a069ddaabf5ef49ec78e2a8a",
+      "published_sha256": "93655401aa3aef73380e6b98882c849b3e204272a069ddaabf5ef49ec78e2a8a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/KEY_REVEAL.json",
+      "source_sha256": "59ca514d6d8defd7ff97725fb144f2fd888b27904c21959d0250f9f34e92dafd",
+      "published_sha256": "59ca514d6d8defd7ff97725fb144f2fd888b27904c21959d0250f9f34e92dafd",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/ON_ENVIRONMENT.json",
+      "source_sha256": "bfa84dde15b7bd8708aeea3ca7b2424df7247b1ab0ea05c54a7f3ef67f8b37d9",
+      "published_sha256": "bfa84dde15b7bd8708aeea3ca7b2424df7247b1ab0ea05c54a7f3ef67f8b37d9",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/PREREG.md",
+      "source_sha256": "20e6817b256e2e822340a856d517d4e15c3bc54d46b847c65ccaf72a06002fd9",
+      "published_sha256": "20e6817b256e2e822340a856d517d4e15c3bc54d46b847c65ccaf72a06002fd9",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/PREREG_AMENDMENT_01.md",
+      "source_sha256": "83c51dd2336c3797d09a46a14fd8180e5c72f9c88cd004d60eac4aa334623875",
+      "published_sha256": "83c51dd2336c3797d09a46a14fd8180e5c72f9c88cd004d60eac4aa334623875",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/PREREG_AMENDMENT_02.md",
+      "source_sha256": "04cafc7a857fcfd31c68dfd851d2ca6d26f6c82539850a4988c87a71636333e0",
+      "published_sha256": "04cafc7a857fcfd31c68dfd851d2ca6d26f6c82539850a4988c87a71636333e0",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/PREREG_HASHES.json",
+      "source_sha256": "c9f65d1311189fc4296146be3d6a4bdc338b037841c17dff7ba22788af8cb7e7",
+      "published_sha256": "c9f65d1311189fc4296146be3d6a4bdc338b037841c17dff7ba22788af8cb7e7",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/REPORT.md",
+      "source_sha256": "4f0b398475228f496b600d5d047a48f033b7e3124e2d40ee50c2365dc34ce174",
+      "published_sha256": "4f0b398475228f496b600d5d047a48f033b7e3124e2d40ee50c2365dc34ce174",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/SUMMARY.json",
+      "source_sha256": "a8a6152e02a248890f4d2445017a8e47f86091302ccd67c3b06cc410864ed1a5",
+      "published_sha256": "a8a6152e02a248890f4d2445017a8e47f86091302ccd67c3b06cc410864ed1a5",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/meta/CONTINUATION_CORPUS_END_VERIFICATION.json",
+      "source_sha256": "b3d118f031bc7393494e3b6b9c88bc423168b91e11b8e24f8b714ed2287f3375",
+      "published_sha256": "b3d118f031bc7393494e3b6b9c88bc423168b91e11b8e24f8b714ed2287f3375",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/meta/CONTINUATION_FINAL_VERIFICATION.json",
+      "source_sha256": "0139872dcd767ac3b7f611e643b86a848b84d85ed23c4e00ee6610a2ce9fd543",
+      "published_sha256": "0139872dcd767ac3b7f611e643b86a848b84d85ed23c4e00ee6610a2ce9fd543",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/meta/SIX_PRIMARY_VERIFICATION.json",
+      "source_sha256": "658f4070bab4e9c31e4bc4acc0e1076fc5177314ebc087fdea8d0281919d5f3a",
+      "published_sha256": "658f4070bab4e9c31e4bc4acc0e1076fc5177314ebc087fdea8d0281919d5f3a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/prompts/off.md",
+      "source_sha256": "cd11fb5358ebbf734a299cc5779b24d03f5365817e00db2a2b0e7b1376d86ec0",
+      "published_sha256": "cd11fb5358ebbf734a299cc5779b24d03f5365817e00db2a2b0e7b1376d86ec0",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/prompts/on-repass.md",
+      "source_sha256": "b40a27e51e7f25b2f600a0d21eb6dbe6b0943a13f84820d7cd60016bad60c3c6",
+      "published_sha256": "b40a27e51e7f25b2f600a0d21eb6dbe6b0943a13f84820d7cd60016bad60c3c6",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/prompts/on.md",
+      "source_sha256": "2e0a1a7046d2bc190b0460fcbe49c0d7cbe92f4dd66a5c1f57273ac292d7316d",
+      "published_sha256": "2e0a1a7046d2bc190b0460fcbe49c0d7cbe92f4dd66a5c1f57273ac292d7316d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p1/SEAL.json",
+      "source_sha256": "0253b6263e5e19e3032dd4e47029b3e3abda4beef555a6aca85f5fc08768c9e5",
+      "published_sha256": "0253b6263e5e19e3032dd4e47029b3e3abda4beef555a6aca85f5fc08768c9e5",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p1/answers.json",
+      "source_sha256": "fa2aa9b41ed7b371deca28de37fad3d867ec04840596f61969dec5981e57a4b1",
+      "published_sha256": "fa2aa9b41ed7b371deca28de37fad3d867ec04840596f61969dec5981e57a4b1",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p2/SEAL.json",
+      "source_sha256": "cb2b90f7eb205a4f00a930e10be87c842039e94b7fe341cab12efac6b8e499b8",
+      "published_sha256": "cb2b90f7eb205a4f00a930e10be87c842039e94b7fe341cab12efac6b8e499b8",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p2/answers.json",
+      "source_sha256": "96f78af498d5b3854142aca7e370189ce43266654fc25ad0cfa8e80ccfa9419b",
+      "published_sha256": "96f78af498d5b3854142aca7e370189ce43266654fc25ad0cfa8e80ccfa9419b",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p3/SEAL.json",
+      "source_sha256": "8e510bec4b30fd9a4ff77d0eab827682f0e513748f8b5e88aaa9cb92bbf469d4",
+      "published_sha256": "8e510bec4b30fd9a4ff77d0eab827682f0e513748f8b5e88aaa9cb92bbf469d4",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/off_p3/answers.json",
+      "source_sha256": "76915d9126bf340e02e89696554d6195739397615e266624a970bbc717b21ca8",
+      "published_sha256": "76915d9126bf340e02e89696554d6195739397615e266624a970bbc717b21ca8",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p1/SEAL.json",
+      "source_sha256": "47b1735fc5de97c2a1a4625fb5ed64ddd22bfee44ec08bdf26b6ec0541a7503f",
+      "published_sha256": "47b1735fc5de97c2a1a4625fb5ed64ddd22bfee44ec08bdf26b6ec0541a7503f",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p1/answers.json",
+      "source_sha256": "faa29a633d516766e5bb33b96e02fb4ae8218b37c9d5fdb8794f7c0b167b7293",
+      "published_sha256": "faa29a633d516766e5bb33b96e02fb4ae8218b37c9d5fdb8794f7c0b167b7293",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p2/SEAL.json",
+      "source_sha256": "d83304b3bfa1fb012f23d0f55983c2ebdfac1634053cb6cbbff9259c5e20ca55",
+      "published_sha256": "d83304b3bfa1fb012f23d0f55983c2ebdfac1634053cb6cbbff9259c5e20ca55",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p2/answers.json",
+      "source_sha256": "f6c1fd67bd427f42bee9e30a05dda106fee4b0693b4493b1cae3fa89f105d46a",
+      "published_sha256": "f6c1fd67bd427f42bee9e30a05dda106fee4b0693b4493b1cae3fa89f105d46a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p3/SEAL.json",
+      "source_sha256": "4d3f5c3fa76b604a3f23733dfdbccedfcda63f444472e9c00992694318089b29",
+      "published_sha256": "4d3f5c3fa76b604a3f23733dfdbccedfcda63f444472e9c00992694318089b29",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on-repass_p3/answers.json",
+      "source_sha256": "f82d608e29cc285da896373bd3d0661efea210b0fcebe51f55d371b4fade2b3a",
+      "published_sha256": "f82d608e29cc285da896373bd3d0661efea210b0fcebe51f55d371b4fade2b3a",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p1/SEAL.json",
+      "source_sha256": "a51c10798ba09a011722bdf4b89cddec08289894561145d5781bfb9612dd5f68",
+      "published_sha256": "a51c10798ba09a011722bdf4b89cddec08289894561145d5781bfb9612dd5f68",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p1/answers.json",
+      "source_sha256": "3c2cc436a550a4b9e5ba30292c9b5d80a1c95338ff3818bcd793083d71321a70",
+      "published_sha256": "3c2cc436a550a4b9e5ba30292c9b5d80a1c95338ff3818bcd793083d71321a70",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p2/SEAL.json",
+      "source_sha256": "87e1b33beeac68dc2bc6021445c3e1203de9114740a03347e971dd0c22e4662d",
+      "published_sha256": "87e1b33beeac68dc2bc6021445c3e1203de9114740a03347e971dd0c22e4662d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p2/answers.json",
+      "source_sha256": "36abbacb8ba1845e7465d1823eeea62348bf7cc0a07f9b8f6abe2ff1dd4565cd",
+      "published_sha256": "36abbacb8ba1845e7465d1823eeea62348bf7cc0a07f9b8f6abe2ff1dd4565cd",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p3/SEAL.json",
+      "source_sha256": "2c14f2f7b64c6d8f6817f807a7fe8c2e94a58893a2f66ef1bfe634050df3b639",
+      "published_sha256": "2c14f2f7b64c6d8f6817f807a7fe8c2e94a58893a2f66ef1bfe634050df3b639",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_gpt6sol_high/runs/on_p3/answers.json",
+      "source_sha256": "f30cc0debaa44300d49cf2ccef8b6cf43faff80ac0857e506fe54803f1c4183e",
+      "published_sha256": "f30cc0debaa44300d49cf2ccef8b6cf43faff80ac0857e506fe54803f1c4183e",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_reference/NOTICE.md",
+      "source_sha256": "f2966ae15fc0bead406de64ea144bb544eac051147ea5a6d9e95186b86607e95",
+      "published_sha256": "f2966ae15fc0bead406de64ea144bb544eac051147ea5a6d9e95186b86607e95",
+      "edited_for_publication": false
+    },
+    {
+      "path": "criminal_setup/source.json",
+      "source_sha256": "552914f6a918c82db1f3371561f7f1fc292001e96829790eb32538e2c8a72850",
+      "published_sha256": "552914f6a918c82db1f3371561f7f1fc292001e96829790eb32538e2c8a72850",
+      "edited_for_publication": false
+    },
+    {
+      "path": "reference/NOTICE.md",
+      "source_sha256": "af2bd87330e2313b1424e9d40e92675a0c6f3c2eb6e82edcb0688f269f4e07d6",
+      "published_sha256": "af2bd87330e2313b1424e9d40e92675a0c6f3c2eb6e82edcb0688f269f4e07d6",
+      "edited_for_publication": false
+    },
+    {
+      "path": "reference/SOURCE.json",
+      "source_sha256": "29429470c6e6568c322434fcd7a28fe06cc4e93ce558b678670f59a92557239d",
+      "published_sha256": "29429470c6e6568c322434fcd7a28fe06cc4e93ce558b678670f59a92557239d",
+      "edited_for_publication": false
+    },
+    {
+      "path": "setup/CORPUS_END_VERIFICATION.json",
+      "source_sha256": "95a97235adc85fb47838d30a8d3ad1a2c5fbd7fa24a1e9a861251e2776f4799e",
+      "published_sha256": "95a97235adc85fb47838d30a8d3ad1a2c5fbd7fa24a1e9a861251e2776f4799e",
+      "edited_for_publication": false
+    }
+  ]
+}

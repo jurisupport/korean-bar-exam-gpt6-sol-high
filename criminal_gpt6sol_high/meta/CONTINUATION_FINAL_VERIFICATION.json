@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-09-24T16:17:25.139774+00:00",
+  "verifier": "native verify_criminal_protocol, gpt-6-sol/high",
+  "primary_rounds": 6,
+  "diagnostic_rounds": 3,
+  "valid_model_calls": 33,
+  "off_scores": [
+    33,
+    31,
+    30
+  ],
+  "on_scores": [
+    39,
+    39,
+    39
+  ],
+  "off_mean": 31.333333333333332,
+  "on_mean": 39,
+  "wrong_and_low_confidence_lists_match": true,
+  "all_15_pairwise_agreements_match": true,
+  "all_repass_answer_changes": 0,
+  "all_nine_archive_hashes_and_inventories_match": true,
+  "model_effort_unique_ephemeral_workdirs_pass": true,
+  "original_three_seals_unchanged": true,
+  "original_key_reveal_unchanged": true,
+  "solver_inputs_and_repeated_prompts_unchanged": true,
+  "original_reveal_before_continuation": true,
+  "combined_grading_after_all_nine_seals": true
+}

@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-09-24T16:06:56.863997+00:00",
+  "verifier": "native verify_criminal_protocol, gpt-6-sol/high",
+  "primary_rounds": 6,
+  "primary_calls": 30,
+  "distinct_workdirs": 30,
+  "model_effort_ephemeral_pass": true,
+  "actual_prompts_identical_across_three_repeats": true,
+  "all_primary_archive_hashes_match": true,
+  "off_tool_calls": 0,
+  "on_tool_scope_audit_pass": true,
+  "frozen_solver_input_hashes_match": true,
+  "first_three_seals_unchanged": true,
+  "original_key_reveal_record_unchanged": true,
+  "missing_revealed_key_guard_pass": true,
+  "graded_new_rounds": false
+}

@@ -1,0 +1,1347 @@
+{
+ "group": "Foff3",
+ "subject": "공법",
+ "condition": "F_off(gpt-6-sol high 순수지식, 도구 전무)",
+ "answers": [
+  {
+   "no": 1,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.94,
+     "authority": "기억 근거: 제헌헌법의 이익분배균점권, 1980년 헌법의 적정임금 노력 및 현행 헌법 제32조 제1항의 최저임금제 시행 규정."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.83,
+     "authority": "기억 근거: 1954년 제2차 개정헌법의 헌법개정 발안권과 선거권자 50만 명 발안 규정."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "기억 근거: 1960년 제3차 개정헌법에서 중앙선거위원회를 헌법기관으로 규정한 헌정사."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 1962년 제5차 개정헌법의 정당국가화 및 국회의원 입후보 정당추천제."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.95,
+     "authority": "기억 근거: 1972년 유신헌법의 통일주체국민회의 선출 국회의원은 정수의 3분의 1이며 후보 추천권자는 대통령이었다."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ⑤뿐이므로 ⑤(=answer 5).",
+   "min_prop_confidence": 0.78,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 2,
+   "answer": 1,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.74,
+     "authority": "기억 근거: 헌법재판소의 국회 입법절차 판례는 적법절차원칙에서 일반적인 청문절차 요구를 도출하여 국회의 입법권을 제약하지 않는다."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 대통령 탄핵심판 판례의 탄핵소추권 남용 판단; 법정 절차와 위반행위 소명이 있으면 부수적 정치 동기만으로 남용이 아니다."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.9,
+     "authority": "기억 근거: 헌법 제60조 제1항의 국회 조약 동의권; 외국군대 지위와 재정 부담·입법사항이 있는 조약은 명칭과 무관하게 동의 대상이다."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.77,
+     "authority": "기억 근거: 국회의 권한쟁의심판 당사자능력과 국회의장의 대표권에 관한 헌법재판소 판례 요지; 권한 실현 의사가 본회의에서 이미 결정되면 별도 제소 의결을 요하지 않는다."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "기억 근거: 법률의 제정·개정 자체를 다투는 권한쟁의에서는 국가기관 국회가 피청구인이고 국회의장만을 상대로 한 해당 청구는 부적법하다는 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ①뿐이므로 ①(=answer 1).",
+   "min_prop_confidence": 0.74,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 3,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.95,
+     "authority": "기억 근거: 헌법 제65조 제2항의 대통령 탄핵소추 가중 의결정족수와 헌법재판소의 민주적 정당성·지위 고려 판례 요지."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.84,
+     "authority": "기억 근거: 대통령 직접선거(헌법 제67조)와 국회의 국무총리 임명동의(제86조)에 따른 민주적 정당성 차이에 관한 탄핵심판 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.72,
+     "authority": "기억 근거: 헌법 제86조 제2항 및 국무총리의 대통령 보좌·명을 받은 행정각부 통할에 관한 헌법재판소 판례 요지."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "기억 근거: 헌법 제111조 제3항의 국회 선출 헌법재판관 임명 구조 및 대통령 권한대행의 적법한 선출자 임명 의무에 관한 권한쟁의 판례 요지."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.94,
+     "authority": "기억 근거: 헌법 제65조 제2항의 탄핵소추 정족수는 피소추자의 헌법상 직위에 따라 정해지므로 국무총리 권한대행에게 대통령의 3분의 2 찬성 정족수를 적용하지 않는다는 탄핵심판 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ⑤뿐이므로 ⑤(=answer 5).",
+   "min_prop_confidence": 0.72,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 4,
+   "answer": 4,
+   "propositions": {
+    "ㄱ": {
+     "truth": false,
+     "confidence": 0.96,
+     "authority": "기억 근거: 법원조직법 제8조의 상급심 판단 기속력은 해당 사건에 대한 것이고 동종의 다른 사건까지 미치지 않는다."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "기억 근거: 헌법 제107조 제2항의 명령·규칙 심사권 및 법원조직법 제7조 제1항의 대법관 전원 3분의 2 이상 합의체 심판 원칙."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.83,
+     "authority": "기억 근거: 헌법 제107조 제2항의 명령·규칙 심사권은 법규범인 지방자치단체 조례에도 미친다는 판례 요지."
+    },
+    "ㄹ": {
+     "truth": true,
+     "confidence": 0.75,
+     "authority": "기억 근거: 행정소송법 제6조 제1항의 대법원 명령·규칙 위헌·위법판결 확정 시 행정안전부장관 통보 규정."
+    }
+   },
+   "derivation": "ㄴ·ㄷ·ㄹ만 옳으므로 ④(=answer 4).",
+   "min_prop_confidence": 0.75,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 5,
+   "answer": 2,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "기억 근거: 방송통신위원회 위원장 탄핵심판에서 방송의 자유·공적 기능 회복과 탄핵제도의 관련성을 설명한 헌법재판소 판례 요지."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.97,
+     "authority": "기억 근거: 헌법 제96조의 행정각부 설치 법률주의가 모든 중앙행정기관의 행정각부 소속을 강제하지 않는다는 고위공직자범죄수사처 관련 헌법재판소 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.9,
+     "authority": "기억 근거: 고위공직자범죄수사처 설치·수사대상 범위에 관한 헌법재판소 판례의 입법재량 및 명백한 자의성 심사 요지."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.72,
+     "authority": "기억 근거: 헌법 제97조의 감사원 직무감찰은 행정부 내부 통제이며 독립 헌법기관의 직무는 그 대상이 아니라는 헌법재판소 판례 요지."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 헌법 제114조의 선거관리위원회 독립기관 구성 취지와 선거 공정성에 관한 헌법재판소 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ②뿐이므로 ②(=answer 2).",
+   "min_prop_confidence": 0.72,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 6,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.75,
+     "authority": "기억 근거: 헌법 제23조 제1·2항의 재산권 사회적 제약과 가축 살처분을 같은 조 제3항의 공용수용과 구별한 판례 요지."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "기억 근거: 헌법 제23조 제1·2항의 사회적 제약이라도 수인한계를 넘는 가혹한 부담에는 조정적 보상을 두어야 한다는 개발제한구역 등 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.8,
+     "authority": "기억 근거: 헌법 제23조의 조정적 보상에서 보상 방법의 선택에 입법자에게 넓은 형성의 자유를 인정한 판례 요지."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "기억 근거: 가축전염병 예방법 제48조 제1항의 조정적 보상조치에 관한 입법형성재량 한계 심사 판례 요지."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.58,
+     "authority": "기억 근거: 가축전염병 예방법 제48조 제1항의 소유자인 축산계열화사업자 대신 계약사육농가에 보상금을 지급하는 경우, 정산만으로 소유자의 손실 회복이 보장되지 않고 정산불능 위험이 남는다는 재산권 심사 판례 요지; 결론의 세부 기억은 약함."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ⑤로 판정하므로 ⑤(=answer 5).",
+   "min_prop_confidence": 0.58,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 7,
+   "answer": 4,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "기억 근거: 헌법재판소법 제47조 제1항의 위헌결정 기속력은 한정위헌결정에도 미치며 이를 부인한 재심기각재판은 같은 법 제68조 제1항 재판소원의 예외에 해당한다는 판례 요지."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 헌법재판소법 제75조 제3항 및 한정위헌결정의 기속력을 부인한 재심기각결정이 재판청구권을 침해하므로 취소된다는 판례 요지."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.76,
+     "authority": "기억 근거: 헌법재판소법 제47조 제4항은 위헌으로 결정된 형벌조항에 근거한 확정 유죄판결의 재심을 허용하며, 한정위헌도 해당 위헌결정에 포함된다는 판례 요지."
+    },
+    "ㄹ": {
+     "truth": true,
+     "confidence": 0.62,
+     "authority": "기억 근거: 헌법재판소법 제68조 제1항의 재판소원 예외 및 위헌결정 기속력은 결정 전에 이미 확정된 원 유죄판결 자체에는 위반 문제를 만들지 않는다는 판례 요지; 재판소원 허용범위의 세부 기억은 약함."
+    }
+   },
+   "derivation": "ㄱ·ㄴ·ㄹ만 옳고 ㄷ은 그르므로 ④(=answer 4).",
+   "min_prop_confidence": 0.62,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 8,
+   "answer": 1,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.73,
+     "authority": "기억 근거: 면책 단서가 없는 자동적 양벌규정을 선임·감독상 과실이 있을 때만 처벌하는 규정으로 읽는 것은 명확한 문언의 한계를 넘는다는 책임주의·합헌적 해석 판례 요지."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.93,
+     "authority": "기억 근거: 헌법재판소법 제47조 제1항 및 헌법재판소의 한정위헌결정을 법률 일부에 대한 위헌결정으로 보는 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 구 군형법 제94조 정치적 의견 공표를 군의 정치적 중립성을 해치는 지위 이용 공표로 한정한 판례 요지."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.7,
+     "authority": "기억 근거: 군인사법 제48조 제4항 후단의 무죄 선고에 실질적 무죄에 해당하는 공소기각재판을 포함하는 합헌적 법률해석 판례 요지."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 군형법 제92조의6의 합의에 따른 사적 동성 성행위에 관한 대법원 전원합의체의 제한적 적용 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ①뿐이므로 ①(=answer 1).",
+   "min_prop_confidence": 0.7,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 9,
+   "answer": 4,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.83,
+     "authority": "헌재 대체복무제 사건 다수의견 기억: 교정시설 복무는 형벌·수형자 처우와 법적 성격이 다름"
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "헌재 대체역법 36개월 합숙복무 사건 다수의견 기억: 양심의 자유에 대한 과잉제한 부정"
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.66,
+     "authority": "헌재 대체복무 생활관 사건 요지 기억: 공동생활시설의 CCTV 운영 사실만으로 과도한 기본권 제한 단정 불가"
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.6,
+     "authority": "헌법 제8조·정당법 제22조 관련 대체복무요원 사건 다수의견 기억: 교정시설 복무자의 정치적 중립성 확보를 위한 정당가입 제한 용인"
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.75,
+     "authority": "헌재 대체역법 사건 요지 기억: 국가가 순수 민간단체 주관 복무까지 마련할 헌법상 의무는 없고 소집거부 처벌 가능"
+    }
+   },
+   "derivation": "옳지 않은 것 = ④ → ④(=answer 4)",
+   "min_prop_confidence": 0.6,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 10,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.89,
+     "authority": "최저임금법 제8조 제1항은 장관의 결정권한 규정; 헌재 법령소원 직접성·자기관련성 판례 요지"
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "최저임금법 제14조 제1항은 위원회 구성 조직규범; 헌법재판소법 제68조 제1항 자기관련성 판례 요지"
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "근로기준법 제53조 제1항; 헌법 제15조 직업의 자유 및 제10조 계약의 자유에 관한 주 52시간제 결정 요지"
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "헌법 제23조 재산권; 헌재 주 52시간제 사건에서 단순한 영리기회·기업활동 여건은 재산권 보호범위 밖이라는 요지"
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.82,
+     "authority": "헌법 제32조 근로의 권리; 헌재 주 52시간제 결정 요지상 연장근로 기회가 제한된다고 근로자의 근로권 침해가 성립하지 않음"
+    }
+   },
+   "derivation": "옳지 않은 것 = ⑤ → ⑤(=answer 5)",
+   "min_prop_confidence": 0.82,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 11,
+   "answer": 4,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "헌법재판소법 제68조 제1항 직접성 법리: 형사소송법상 항소기각은 법원의 재판을 매개로 발생한다는 판례 요지"
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.65,
+     "authority": "공증인법상 관할별 인가공증인 정원 제한 사건 기억: 신청 법무법인 소속 변호사의 직업수행상 자기관련성 인정"
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.77,
+     "authority": "헌법재판소법 제40조 제1항 및 민사소송법의 임의적 당사자변경 법리: 청구인 추가는 표시정정 범위 밖"
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.58,
+     "authority": "헌법재판소법 제40조 제1항·민사소송법 제83조 제1항 공동소송참가 법리 기억: 적시 원청구에 참가하는 제3자에게 별도 헌법소원 청구기간을 요구하지 않음"
+    }
+   },
+   "derivation": "ㄱ○·ㄴ○·ㄷ○·ㄹ× → ④(=answer 4)",
+   "min_prop_confidence": 0.58,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 12,
+   "answer": 2,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.96,
+     "authority": "헌법 제117조 제1항 및 지방자치법 제28조 제1항: 자치사무 조례와 권리제한·의무부과·벌칙의 법률위임"
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.93,
+     "authority": "헌법 제117조 제1항 조례자치권; 대법원 판례 요지상 조례에 대한 법률위임은 법규명령과 달리 포괄위임 가능"
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.77,
+     "authority": "헌법 제117조 제1항의 '법령의 범위'; 대법원 판례 요지상 법규명령 기능을 하는 행정규칙도 포함"
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.9,
+     "authority": "지방자치법 조례안 재의요구 규정: 이송 후 20일, 일부 재의요구·수정 재의요구 금지"
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "주민조례발안에 관한 법률 제2조: 주민의 조례 제정·개정·폐지 청구"
+    }
+   },
+   "derivation": "옳지 않은 것 = ② → ②(=answer 2)",
+   "min_prop_confidence": 0.77,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 13,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.94,
+     "authority": "헌법 제15조; 헌재 판례 요지상 직업선택·직업수행 자유를 포함하고 법인도 직업수행 자유 주체"
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.79,
+     "authority": "헌법 제119조 제1·2항과 제15조; 헌재 판례 요지상 직업의 자유는 사회적 시장경제질서의 객관적 구성요소"
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.79,
+     "authority": "병역법상 사회복무요원 겸직허가·경고 및 복무연장 규정; 헌재 결정 요지상 공정한 병역의무 이행을 위한 제한으로 직업의 자유 침해 부정"
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.73,
+     "authority": "구 옥외광고물법 시행령의 비사업용 자동차 광고표시 제한에 관한 헌재 결정 요지: 직업의 자유 침해 부정"
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "헌법 제15조; 헌재 외국인근로자 고용허가제 결정 요지상 적법 체류·취업 외국인의 직장선택 자유 보장"
+    }
+   },
+   "derivation": "옳지 않은 것 = ③ → ③(=answer 3)",
+   "min_prop_confidence": 0.73,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 14,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.95,
+     "authority": "헌법 제119조 제1·2항; 헌재 판례 요지상 사유재산·자유경쟁과 경제민주화를 아우르는 사회적 시장경제질서"
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.94,
+     "authority": "헌법 제123조 제1·4항은 농민의 적정소득 보장 노력과 가격안정 노력만 규정; 농산물 최저가격제 시행 의무 없음"
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.97,
+     "authority": "헌법 제126조: 국방상 또는 국민경제상 긴절한 필요로 법률이 정한 경우 사영기업 국유화 가능"
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.97,
+     "authority": "헌법 제121조 제1·2항: 소작제도 금지, 예외적 농지 임대차·위탁경영만 인정"
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.9,
+     "authority": "헌법 제119조 제2항; 헌재 조세입법 판례 요지상 적정 소득분배 목표에서 누진세율 종합과세의 구체적 의무는 도출되지 않음"
+    }
+   },
+   "derivation": "옳은 것 = ③ → ③(=answer 3)",
+   "min_prop_confidence": 0.9,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 15,
+   "answer": 1,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "방송법 제64조; 헌재 TV수신료 결정 요지상 특정 공익사업 재원을 위한 특별부담금으로 조세·수익자부담금과 구별"
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "방송법 제67조 및 헌법 제37조 제2항 의회유보 법리; 헌재 수신료 분리징수 결정 요지상 구체적 고지방법은 법률 직접 규정사항 아님"
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.78,
+     "authority": "방송법 시행령 제43조 제2항; 헌재 수신료 분리징수 결정 요지상 고지방법 규정은 법률 집행에 필요한 집행명령"
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.75,
+     "authority": "헌법상 신뢰보호원칙; 헌재 수신료 분리징수 결정 요지상 통합고지 관행의 존속 신뢰와 장래 재정불이익만으로 위반 아님"
+    }
+   },
+   "derivation": "ㄱ·ㄴ만 옳음 → ①(=answer 1)",
+   "min_prop_confidence": 0.75,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 16,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "헌법 제35조 제1항 및 헌재 2020헌마389등 기후소송 결정: 생활환경 포함, 기후위기 대응 국가의무"
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.83,
+     "authority": "헌법 제35조 제1항; 헌재 2020헌마389등 결정의 과소보호금지원칙 심사기준"
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.73,
+     "authority": "탄소중립기본법 제8조 제1항; 헌재 2020헌마389등 결정 요지상 2031~2049년 감축목표의 대강을 법률에 정해야 하는 의회유보 요구"
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "헌법 제35조 제1항 및 헌재 2020헌마389등 결정: 2031~2049년 정량적 감축기준 부재는 최소 보호조치 미달"
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.79,
+     "authority": "탄소중립기본법 제8조 제1항·시행령 제3조 제1항; 헌재 2020헌마389등 결정 요지상 2030년 목표의 최소 보호수준 충족"
+    }
+   },
+   "derivation": "옳지 않은 것 = ③ → ③(=answer 3)",
+   "min_prop_confidence": 0.73,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 17,
+   "answer": 2,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 헌법재판소법 제47조 제2항의 비형벌법규 장래효 원칙에 관하여, 대법원 판례는 당해사건·동종사건·병행사건 및 위헌결정 후 제소 사건에 소급효를 인정하면서 법적 안정성과 신뢰보호상 제한할 수 있다고 판시한다."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.94,
+     "authority": "기억 근거: 헌법재판소법 제47조 제3항·제4항은 형벌조항의 소급 실효 및 그 조항에 근거한 확정 유죄판결의 재심을 규정한다."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "기억 근거: 헌법재판소법 제67조의 탄핵결정 효력은 파면 등 개별 피청구인에 관한 것이며, 위헌결정의 제47조 제1항과 같은 일반적 기속력 규정은 없다."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.81,
+     "authority": "기억 근거: 형벌조항의 잠정적용 헌법불합치 후 개정시한이 경과하면 소급적으로 처벌 근거가 없어지는 경우로서 형사소송법 제325조 전단의 무죄를 선고하고, 면소 사유로 보지 않는다는 대법원 판례 요지."
+    },
+    "ㅁ": {
+     "truth": false,
+     "confidence": 0.91,
+     "authority": "기억 근거: 처분 후 근거 법률의 위헌결정만으로 이미 성립한 행정처분이 당연무효로 되는 것은 아니고, 위헌결정 전에는 하자의 명백성을 인정하기 어렵다는 대법원 판례 요지."
+    }
+   },
+   "derivation": "옳은 지문 ㄱ·ㄴ·ㄷ → ②",
+   "min_prop_confidence": 0.76,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 18,
+   "answer": 1,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.79,
+     "authority": "기억 근거: 최근 헌법재판소 판례는 법관 임용 전 3년 이내 당원 경력을 일률적 결격사유로 삼으면 정치적 중립 보장에 필요한 범위를 넘어 공무담임권을 침해한다고 보았다."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 피성년후견인이라는 신분만으로 직무수행능력 심사 없이 국가공무원을 당연퇴직시키는 구 국가공무원법 규정은 공무담임권 침해라는 헌법재판소 판례 요지."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.75,
+     "authority": "기억 근거: 아동에 대한 성적 학대행위로 형이 확정된 모든 사람을 기간·직무별 구분 없이 일반직 공무원과 부사관 임용에서 배제하는 국가공무원법·군인사법 규정은 과도하다는 헌법재판소 판례 요지."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.79,
+     "authority": "기억 근거: 국가공무원법·공무원임용령의 감봉 후 12개월 승진임용 제한은 징계 실효성과 공직질서를 위한 한시적 제한으로 공무담임권을 침해하지 않는다는 헌법재판소 판례 요지."
+    }
+   },
+   "derivation": "ㄱ○·ㄴ○·ㄷ○·ㄹ× → ①",
+   "min_prop_confidence": 0.75,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 19,
+   "answer": 2,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "기억 근거: 대북 전단 살포를 위험 발생과 결부하여 형사처벌한 남북관계 발전에 관한 법률 조항은 과잉금지원칙에 반해 표현의 자유를 침해한다는 헌법재판소 판례 요지."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.64,
+     "authority": "기억 근거: 공직선거법 제251조 후보자비방죄는 진실한 사실로서 공공의 이익에 관한 경우를 처벌에서 제외하여, 선거의 공정성 보호를 위한 제한으로 합헌이라고 본 헌법재판소 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 정보통신망법상 공공기관 등의 게시판 본인확인제는 익명표현의 자유를 과도하게 제한한다는 헌법재판소 판례 요지."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.73,
+     "authority": "기억 근거: 인터넷선거보도 심의기준의 후보자 명의 칼럼 90일 게재 제한은 후보자의 정치적 표현을 지나치게 제약한다는 헌법재판소 판례 요지."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "기억 근거: 공직선거법상 선거운동기간 인터넷언론사 게시판 실명확인 의무와 과태료는 익명 정치적 표현의 자유를 침해한다는 헌법재판소 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ② → ②",
+   "min_prop_confidence": 0.64,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 20,
+   "answer": 1,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.78,
+     "authority": "기억 근거: 헌법재판소법 제68조 제2항의 재판전제성은 당해소송의 재판에 적용되는 규범이어야 한다. 면허취소처분 취소소송에는 취소 근거인 A조항이 적용되고, 장래 면허 재취득 결격기간인 B조항은 재판의 전제가 아니다. 제청신청 기각 뒤 30일 청구기간은 준수하였다."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.96,
+     "authority": "기억 근거: 헌법재판소법 제68조 제2항에서 당해사건은 위헌제청신청을 한 계속 중 소송인 부산지방법원 2025구단1464 면허취소처분 취소 사건이다."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.81,
+     "authority": "기억 근거: 헌법재판소법 제68조 제1항 법령소원에서 B조항의 면허 재취득 결격은 취소 후 법률에 의해 직접 발생하나, A조항의 면허취소는 경찰청장의 별도 처분을 거쳐 발생한다는 직접성 판례 법리."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "기억 근거: 헌법 제15조의 직업의 자유에는 직업 수행에 필요한 화물차 운전 자격의 유지와 재취득도 포함된다는 헌법재판소 판례 법리."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.76,
+     "authority": "기억 근거: 반복 음주운전으로 인한 2년 면허 재취득 결격기간은 교통안전 확보를 위한 입법재량 범위로서 위반 경위에 따른 개별 차등을 두지 않아도 침해의 최소성에 반하지 않는다는 헌법재판소 판례 요지."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ①(재판전제성 부정) → ①",
+   "min_prop_confidence": 0.76,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 21,
+   "answer": 1,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 장애인 접근권은 헌법 제10조·제34조 등에서 도출되나 구체적인 시설 설치 청구권은 법률상 구체화가 필요하다는 대법원 장애인 접근권 국가배상 판례 요지."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.65,
+     "authority": "기억 근거: 대법원 장애인 접근권 국가배상 판례의 개선입법의무 판단에서는 대체 정책에 의한 실질적 접근성 개선 등 제반 사정을 살피므로, 상당한 설치율에 이르렀다면 불이행의 정당한 사유가 될 여지를 인정한다는 취지."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.8,
+     "authority": "기억 근거: 국가배상법 제2조의 공무원 고의·과실에 관하여 조직적 입법부작위 사건에서는 담당 공무원 한 명을 특정하여 개별 과실을 입증할 필요는 없다는 대법원 판례 요지."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.77,
+     "authority": "기억 근거: 시행령 미개정의 객관적 정당성 판단에서는 개선입법의무의 명백성과 담당 행정주체의 인식가능성도 고려한다는 대법원 판례 요지."
+    }
+   },
+   "derivation": "ㄱ○·ㄴ○·ㄷ○·ㄹ× → ①",
+   "min_prop_confidence": 0.65,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 22,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "기억 근거: 소송판결의 기판력은 판단된 소송요건 흠결에 미치지만 그 흠결을 보완한 후의 재소까지 막지 않는다는 대법원 판례 법리."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.85,
+     "authority": "기억 근거: 교원소청심사위원회 결정 취소로 해임일부터 당연퇴직일까지 보수청구 등 법률상 이익을 회복할 수 있으면 당연퇴직 후에도 취소를 구할 이익이 있다는 대법원 판례 요지."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.95,
+     "authority": "기억 근거: 행정소송법 제30조 제2항은 거부처분 취소 후 신청에 대한 재처분의무를, 제34조는 그 의무 불이행에 대한 간접강제를 규정한다."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "기억 근거: 취소판결 기속력의 반복금지는 기본적 사실관계가 같은 사유에 미치며, 사실관계가 다른 새로운 사유에 따른 처분은 허용된다는 대법원 판례 법리."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.9,
+     "authority": "기억 근거: 행정심판법의 인용재결 기속력은 처분청의 의무에 관한 것으로, 사실인정·법률판단에 대한 기판력까지 당사자와 법원에 미치지 않는다는 대법원 판례 법리."
+    }
+   },
+   "derivation": "옳은 지문은 ③ → ③",
+   "min_prop_confidence": 0.85,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 23,
+   "answer": 1,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.63,
+     "authority": "기억 근거: 금융감독원 직원의 감독업무 문서는 공무원이 직무상 보관하는 문서에 준하여 민사소송법 제344조 제2항의 제출의무 예외 및 정보공개법상 공개절차를 인정한다는 대법원 판례 요지."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.72,
+     "authority": "기억 근거: 군사법원법 제309조의3은 공소제기 후 군검사 보관 서류·물건의 피고인 및 변호인 열람·등사를 정한 특별규정으로, 정보공개법 제4조 제1항의 예외에 해당한다는 대법원 판례 요지."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.62,
+     "authority": "기억 근거: 정보공개법 제18조의 이의신청은 행정심판이 아니므로 이를 거쳐도 거부처분 취소소송의 제소기간이 이의신청 결과 통지일부터 새로 기산되지는 않는다는 행정소송법 제20조 판례 법리."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.91,
+     "authority": "기억 근거: 정보공개법 제20조 제2항은 법원이 필요한 경우 공개청구 대상 정보를 당사자 참여 없이 비공개로 열람·심사할 수 있도록 규정한다."
+    }
+   },
+   "derivation": "옳은 지문 ㄱ·ㄴ → ①",
+   "min_prop_confidence": 0.62,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 24,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.9,
+     "authority": "기억 근거: 토지보상법 제30조는 토지소유자의 재결신청 청구와 사업시행자의 60일 내 신청의무를 정하나, 지체 시 소유자에게 토지수용위원회 직접 신청권을 주지는 않는다."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.87,
+     "authority": "기억 근거: 수용 보상금은 토지보상법의 수용재결 또는 별도 협의에 따라 정해지며, 재결신청 지체만으로 곧바로 공법상 당사자소송을 통한 손실보상 청구권이 생기지 않는다는 판례 법리."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.95,
+     "authority": "기억 근거: 토지보상법 제83조·제88조의 이의신청 제도와 제87조의 취지상 이의신청은 사업 진행이나 수용의 효력을 정지시키지 않는다."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.94,
+     "authority": "기억 근거: 토지보상법 제85조 제2항의 보상금 증감소송은 재결청이 아니라 사업시행자를 피고로 한다."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.86,
+     "authority": "기억 근거: 수용재결 후에도 사업시행자와 토지소유자가 소유권 이전과 대가를 따로 합의하는 사법상 협의취득 계약을 체결할 수 있다는 대법원 판례 법리."
+    }
+   },
+   "derivation": "옳은 지문은 ③ → ③",
+   "min_prop_confidence": 0.86,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 25,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.94,
+     "authority": "대법원 판례 요지: 사증은 입국허가 자체가 아니라 입국을 위한 예비적 추천이다(기억 근거)."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.82,
+     "authority": "출입국관리법상 사증발급 규정의 보호목적에 관한 대법원 판례 요지: 외국인 일반에게 입국할 권리나 그 사익을 보장하지 않는다(기억 근거)."
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.78,
+     "authority": "행정소송법 제12조 원고적격과 대법원 사증발급 거부 판례 요지: 사실상 입국 장애만으로 신청 외국인의 법률상 이익이 생기지 않는다(기억 근거)."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.58,
+     "authority": "행정절차법 제3조 제2항의 적용 제외는 한정적으로 해석하며, 사증발급 거부를 외국인의 출입국 자체에 관한 사항과 동일시하지 않는다는 판례 취지로 기억한다."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "행정절차법 제21조 제1항 및 거부처분에 관한 대법원 판례 요지: 신청 거부만으로 기존 권익에 적극적 제한을 가하는 침익처분은 아니다(기억 근거)."
+    }
+   },
+   "derivation": "옳은 지문은 ⑤만 있으므로 ⑤(=answer 5)",
+   "min_prop_confidence": 0.58,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 26,
+   "answer": 3,
+   "propositions": {
+    "ㄱ": {
+     "truth": false,
+     "confidence": 0.81,
+     "authority": "대법원 종교적 사유의 법학전문대학원 면접일 변경 거부 판례 요지: 변경 거부는 후속 불합격과 별도로 다툴 이익이 있다(기억 근거)."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.89,
+     "authority": "헌법 제11조 제1항 평등원칙 및 국립대학교 종교적 면접 불이익에 관한 대법원 판례 요지: 정당한 편의 제공 없이 종교적 불이익을 방치한 차별은 위법하다(기억 근거)."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.8,
+     "authority": "행정소송법 제12조 및 불합격처분 취소 판례 요지: 취소로 다시 적법한 면접·선발 판단을 받을 가능성이 있어 소의 이익이 소멸하지 않는다(기억 근거)."
+    },
+    "ㄹ": {
+     "truth": true,
+     "confidence": 0.89,
+     "authority": "헌법 제11조 제1항 및 국립대학교 입학전형 판례 요지: 국가기관은 평등원칙의 직접 수범자이므로 사인보다 차별 위법성을 폭넓게 심사한다(기억 근거)."
+    }
+   },
+   "derivation": "ㄱ×·ㄴ○·ㄷ×·ㄹ○에 맞는 조합은 ③(=answer 3)",
+   "min_prop_confidence": 0.8,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 27,
+   "answer": 2,
+   "propositions": {
+    "ㄱ": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "행정대집행법 제2조: 장례식장 사용 중지는 대체적 작위의무가 아니라 부작위의무여서 대집행 대상이 아니다(기억 근거)."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.8,
+     "authority": "구 여객자동차 운수사업법상 복수 위반 과징금에 관한 대법원 판례 요지: 인지한 위반을 원칙적으로 일괄해 최고한도 내 한 처분으로 부과한다(기억 근거)."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "건축법상 시정명령 판례 요지: 고의·과실은 불필요하나 상대방에게 위법상태를 시정할 법률상 또는 사실상 지위는 있어야 한다(기억 근거)."
+    },
+    "ㄹ": {
+     "truth": true,
+     "confidence": 0.96,
+     "authority": "질서위반행위규제법 제20조 제2항: 적법한 이의제기가 있으면 과태료 부과처분은 효력을 상실한다(기억 근거)."
+    },
+    "ㅁ": {
+     "truth": false,
+     "confidence": 0.87,
+     "authority": "병역법상 병역기피자 인적사항 공개결정에 관한 대법원 판례 요지: 공개결정은 권익에 직접 영향을 미치는 항고소송 대상 처분이다(기억 근거)."
+    }
+   },
+   "derivation": "ㄱ×·ㄴ○·ㄷ×·ㄹ○·ㅁ×에 맞는 조합은 ②(=answer 2)",
+   "min_prop_confidence": 0.8,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 28,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.73,
+     "authority": "도시 및 주거환경정비법상 재개발조합은 공법인이고 조합장 선임·해임으로 인한 지위 다툼은 공법상 당사자소송이라는 대법원 판례 요지로 기억한다."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.74,
+     "authority": "도시 및 주거환경정비법 제27조 제1항 및 신탁업자 시행 정비사업의 위탁자 지위 확인을 당사자소송으로 다투게 한 대법원 판례 요지(기억 근거)."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "행정소송법상 소의 변경과 법원의 석명의무에 관한 대법원 판례 요지: 올바른 항고소송도 명백히 부적법할 때는 석명의무가 없다(기억 근거)."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "민간투자사업 실시협약의 재정지원금 지급 청구에 관한 대법원 판례 요지: 당사자소송 법원이 정당한 급부액을 직접 심리·판단한다(기억 근거)."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.93,
+     "authority": "행정소송법 제43조: 국가를 상대로 하는 당사자소송에는 가집행선고를 할 수 없다는 특칙이 있다(기억 근거)."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ⑤만 있으므로 ⑤(=answer 5)",
+   "min_prop_confidence": 0.73,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 29,
+   "answer": 4,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.84,
+     "authority": "산업집적활성화 및 공장설립에 관한 법률상 입주계약의 공장설립승인 의제 범위에 관한 판례 요지: 별도의 건축허가·개발행위허가까지 당연히 의제되지는 않는다(기억 근거)."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.68,
+     "authority": "중소기업창업 지원법상 사업계획승인에 따라 의제된 산지전용허가의 독립적 취소 통보에 처분성을 인정한 대법원 판례 요지로 기억한다."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.64,
+     "authority": "부분 인허가 의제를 허용하는 경우 의제 인허가의 독립적 직권취소·철회 및 쟁송취소를 인정하는 대법원 판례 요지로 기억한다."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.7,
+     "authority": "구 주택법 제17조 제1항의 의제 인허가와 본처분 관계에 관한 대법원 판례 요지: 의제대상 처분의 공시방법 하자가 승인처분 자체의 위법사유가 되지는 않는다(기억 근거)."
+    }
+   },
+   "derivation": "ㄱ·ㄴ·ㄷ만 옳고 ㄹ은 그르므로 ④(=answer 4)",
+   "min_prop_confidence": 0.64,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 30,
+   "answer": 1,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.94,
+     "authority": "행정재산 사용허가는 재량행위이며 사실오인·비례평등 위반·목적 위반·부정한 동기는 재량권 일탈남용이라는 대법원 판례 요지(기억 근거)."
+    },
+    "ㄴ": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "공법상 계약에 따른 권리 실현을 위한 수익적 행정행위의 재량권은 계약상 의무와 조화되게 행사해야 한다는 대법원 판례 요지(기억 근거)."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.84,
+     "authority": "구 국민건강보험법 제52조 제1항의 '전부 또는 일부' 징수와 관련한 대법원 판례 요지: 부당이득 징수 범위에는 재량이 인정된다(기억 근거)."
+    },
+    "ㄹ": {
+     "truth": false,
+     "confidence": 0.68,
+     "authority": "재량권 일탈남용의 사실오인 법리: 행정청이 유리한 사실을 인식하였다면 이를 반영하지 않은 것을 사실오인에 기초한 판단이라고 단정할 수 없다(기억 근거)."
+    }
+   },
+   "derivation": "ㄱ·ㄴ만 옳고 ㄷ·ㄹ은 그르므로 ①(=answer 1)",
+   "min_prop_confidence": 0.68,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 31,
+   "answer": 1,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.89,
+     "authority": "행정소송법 제20조 제1항의 90일 불변기간 및 민사소송법 제173조 추후보완 법리(기억 근거)."
+    },
+    "②": {
+     "truth": false,
+     "confidence": 0.81,
+     "authority": "행정절차법 제14조 제4항 공고송달의 효력은 공고일부터 14일 경과 후 발생한다는 규정(기억 근거)."
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.85,
+     "authority": "행정소송법 제21조·제42조의 소 변경 법리: 적법한 소 변경의 제소기간은 최초 소 제기 시점을 기준으로 본다는 판례 요지(기억 근거)."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.84,
+     "authority": "제재수준을 감경하는 변경처분은 원처분을 일부 취소하는 것이며 남은 당초 처분의 제소기간은 당초 처분을 기준으로 한다는 판례 요지(기억 근거)."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "행정소송법 제20조 제1항과 행정심판 전치 법리: 법원은 행정심판청구의 적법 여부를 재결청 판단에 기속되지 않고 독자 심사한다(기억 근거)."
+    }
+   },
+   "derivation": "옳은 지문은 ①만 있으므로 ①(=answer 1)",
+   "min_prop_confidence": 0.81,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 32,
+   "answer": 4,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.77,
+     "authority": "국가배상법 제2조와 대법원 손해발생시기 판례 요지: 유효하게 확정된 처분의 이행비용은 특별한 사정이 없으면 처분 때 현실적 손해가 된다(기억 근거)."
+    },
+    "ㄴ": {
+     "truth": false,
+     "confidence": 0.63,
+     "authority": "헌법재판소 재판관의 청구기간 오인 각하에 관한 국가배상 판례 요지: 본안에서 청구가 기각될 가능성과 별개로 적법한 심판을 받을 절차적 이익 침해에 대한 책임을 부정할 수 없다(기억 근거)."
+    },
+    "ㄷ": {
+     "truth": false,
+     "confidence": 0.92,
+     "authority": "국가배상법 제2조 및 보호규범·상당인과관계에 관한 대법원 판례 요지: 의무가 공익이나 내부질서만을 위한 때 개인 손해와의 상당인과관계가 당연히 인정되지는 않는다(기억 근거)."
+    }
+   },
+   "derivation": "옳지 않은 지문은 ㄴ·ㄷ이므로 ④(=answer 4)",
+   "min_prop_confidence": 0.63,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 33,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 행정절차법상 절차 위반은 처분의 본안상 위법 사유이고 항고소송의 소송요건과 구별된다는 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 불특정 다수인에 대한 고시 처분에는 상대방 특정이 불가능하여 행정절차법 제21조 사전통지·제22조 의견제출을 요구하지 않는다는 판례 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.93,
+     "authority": "기억 근거: 행정절차법 제19조 제1항의 처리기간은 훈시규정이므로 기간을 넘겼다는 사정만으로 처분 취소사유가 되지 않는다는 판례 요지(사건번호 미확인)."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "기억 근거: 행정절차법 제22조의 법정 청문을 예외 없이 생략한 침해적 처분은 절차상 위법하여 취소사유라는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "기억 근거: 행정절차법 제20조의 처분기준 설정·공표 취지와, 근거 법령이 구체적 기준을 이미 정한 경우 별도 설정·공표를 요구하지 않는다는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ③ → 옳지 않은 것 ③(=answer 3)",
+   "min_prop_confidence": 0.82,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 34,
+   "answer": 2,
+   "propositions": {
+    "ㄱ": {
+     "truth": true,
+     "confidence": 0.89,
+     "authority": "기억 근거: 행정소송법 제10조 제1항의 관련청구소송 이송 규정; 손해배상청구는 같은 조의 관련청구에 포함된다."
+    },
+    "ㄴ": {
+     "truth": false,
+     "confidence": 0.77,
+     "authority": "기억 근거: 취소소송에 병합된 부당이득반환청구는 동일 절차에서 처분 취소와 함께 인용할 수 있으며 취소판결의 선행 확정을 요구하지 않는다는 판례 요지(사건번호 미확인)."
+    },
+    "ㄷ": {
+     "truth": true,
+     "confidence": 0.68,
+     "authority": "기억 근거: 행정소송법 제10조의 관련청구 병합은 본래의 적법한 취소소송을 전제로 하고, 취소소송 각하 시 병합 관련청구도 각하된다는 판례 요지로 기억함(사건번호 미확인)."
+    },
+    "ㄹ": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "기억 근거: 행정소송법 제16조의 제3자 소송참가 및 참가신청 각하결정에 대한 즉시항고 규정."
+    },
+    "ㅁ": {
+     "truth": false,
+     "confidence": 0.94,
+     "authority": "기억 근거: 행정소송법 제17조는 다른 행정청의 참가를 당사자·행정청의 신청뿐 아니라 법원의 직권으로도 결정할 수 있도록 한다."
+    }
+   },
+   "derivation": "참인 지문은 ㄱ·ㄷ·ㄹ → ②(=answer 2)",
+   "min_prop_confidence": 0.68,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 35,
+   "answer": 4,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 지방자치법 제22조 제1항의 주민감사청구 전치와 소송요건 직권조사에 관한 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.88,
+     "authority": "기억 근거: 지방자치법 제22조 제2항 제1호의 중지청구소송은 중지가 공공복리를 현저히 해칠 우려가 있으면 허용되지 않는다."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.81,
+     "authority": "기억 근거: 지방자치법 제22조 제2항 제4호 주민소송의 청구 특정에 관한 판례 요지; 상대방·재무회계행위·감사청구 관련성·청구액 등을 밝혀야 한다(사건번호 미확인)."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.89,
+     "authority": "기억 근거: 적법한 주민감사청구를 감사기관이 잘못 각하한 경우 그 각하결정을 별도로 다투지 않고 주민소송을 제기할 수 있다는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "기억 근거: 지방자치법상 주민감사청구·주민소송의 적법성 단계에서는 위법 또는 현저한 공익 침해의 가능성 주장으로 족하다는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ④ → 옳지 않은 것 ④(=answer 4)",
+   "min_prop_confidence": 0.81,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 36,
+   "answer": 2,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.9,
+     "authority": "기억 근거: 행정기본법 제2조의 제재처분 정의는 행정상 강제와 과태료 부과를 제외한다."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.68,
+     "authority": "기억 근거: 국민건강보험법 제98조 업무정지는 위반 요양기관에 대한 처분이며, 폐업 후 동일 개설자가 새로 개설한 별도 요양기관에 종전 위반을 이유로 부과할 수 없다는 판례 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.85,
+     "authority": "기억 근거: 행정기본법 제23조 제1항의 5년은 위반행위가 성립된 날이 아니라 종료된 날부터 계산한다."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.86,
+     "authority": "기억 근거: 부령 형식으로 정한 제재처분 기준은 재량준칙인 행정규칙으로서 국민이나 법원을 대외적으로 기속하지 않는다는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.89,
+     "authority": "기억 근거: 행정기본법 제22조는 제재처분의 주체·사유·유형·상한을 법률에 명확히 정하도록 하나 하한까지 요구하지 않는다."
+    }
+   },
+   "derivation": "참인 지문은 ② → 옳은 것 ②(=answer 2)",
+   "min_prop_confidence": 0.68,
+   "contested": true,
+   "recall_flag": false
+  },
+  {
+   "no": 37,
+   "answer": 1,
+   "propositions": {
+    "①": {
+     "truth": false,
+     "confidence": 0.76,
+     "authority": "기억 근거: 도로점용료 감액처분은 원처분 일부의 취소·변경이지 원처분 자체의 하자 치유가 아니라는 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 처분대상 오인은 정확한 사실조사 뒤에야 밝혀질 수 있으면 중대하더라도 객관적으로 명백한 하자가 아니라는 대법원 판례 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.9,
+     "authority": "기억 근거: 무효의 중대·명백 판단 시 법규의 목적·의미·기능 및 사안의 특수성을 함께 고찰한다는 대법원 판례 요지(사건번호 미확인)."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.82,
+     "authority": "기억 근거: 구 환경영향평가법상 필수 환경영향평가를 전혀 거치지 않은 승인처분은 중대·명백한 하자로 무효라는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 수용보상금 증액소송에서 보상 산정의 기초인 비교표준지공시지가결정의 위법을 독립 사유로 주장할 수 있다는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ① → 옳지 않은 것 ①(=answer 1)",
+   "min_prop_confidence": 0.76,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 38,
+   "answer": 5,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 추상적 사회보장수급권의 신청기간은 명시적 소멸시효 규정이 없는 한 제척기간이라는 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.86,
+     "authority": "기억 근거: 실체 요건 발생 시 추상적 수급권, 신청과 행정청의 지급결정 시 구체적 수급권이 성립한다는 대법원 판례 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "기억 근거: 수급권 행사에 중대한 제한을 주는 신청기간은 헌법 제37조 제2항의 법률유보에 따라 법률 또는 위임 하위법령에 정해야 한다는 판례 요지(사건번호 미확인)."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.81,
+     "authority": "기억 근거: 추상적 권리를 구체화하는 신청권과 확정 급여액 지급청구권을 구별하여 기간을 규율한다는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": false,
+     "confidence": 0.89,
+     "authority": "기억 근거: 행정청의 지급결정 전 추상적 급부청구권만으로는 구체적 급여 지급을 구하는 당사자소송을 제기할 수 없다는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ⑤ → 옳지 않은 것 ⑤(=answer 5)",
+   "min_prop_confidence": 0.78,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 39,
+   "answer": 3,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.85,
+     "authority": "기억 근거: 행정기관 간 권한분쟁은 내부 해결 또는 행정소송법 제3조 제4호의 기관소송·헌법 제111조 제1항 제4호의 권한쟁의심판 대상이라는 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.81,
+     "authority": "기억 근거: 다른 행정기관의 제재적 조치가 기관소송·권한쟁의 대상이 아니면 상대 행정기관에 예외적으로 항고소송 원고 자격을 인정한다는 판례 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": false,
+     "confidence": 0.85,
+     "authority": "기억 근거: 하도급법 위반 벌점 부과는 누적되어 입찰참가 제한 등 불이익으로 이어지는 법적 효과가 있어 항고소송 대상인 처분이라는 판례 요지(사건번호 미확인)."
+    },
+    "④": {
+     "truth": true,
+     "confidence": 0.8,
+     "authority": "기억 근거: 국가 철도운행은 사경제적 작용이지만 철도시설물의 설치·관리 하자에는 국가배상법 제5조 영조물 책임을 적용한다는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 대한변호사협회가 변호사 등록사무를 수행할 때는 공권력 주체이며 관련 등록규범도 공법적 성질이라는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ③ → 옳지 않은 것 ③(=answer 3)",
+   "min_prop_confidence": 0.78,
+   "contested": false,
+   "recall_flag": false
+  },
+  {
+   "no": 40,
+   "answer": 4,
+   "propositions": {
+    "①": {
+     "truth": true,
+     "confidence": 0.79,
+     "authority": "기억 근거: 검찰총장의 검사 경고조치는 감찰·인사상 법적 불이익과 연결되어 항고소송의 처분이라는 판례 요지(사건번호 미확인)."
+    },
+    "②": {
+     "truth": true,
+     "confidence": 0.78,
+     "authority": "기억 근거: 수용자 소지물품의 전문적·기술적이고 경미한 세부 사항을 예규에 위임해도 포괄위임금지에 반하지 않는다는 헌법재판소 결정 요지(사건번호 미확인)."
+    },
+    "③": {
+     "truth": true,
+     "confidence": 0.91,
+     "authority": "기억 근거: 헌법 제75조상 시행령은 법률의 구체적 위임 또는 집행에 필요한 사항의 범위를 넘어 국민의 권리·의무를 새로 정할 수 없다는 판례 요지(사건번호 미확인)."
+    },
+    "④": {
+     "truth": false,
+     "confidence": 0.83,
+     "authority": "기억 근거: 법무부장관의 공증인 집행증서 작성사무 지침은 감독상 직무명령 성질의 행정규칙이며 대외적 법규명령은 아니라는 판례 요지(사건번호 미확인)."
+    },
+    "⑤": {
+     "truth": true,
+     "confidence": 0.87,
+     "authority": "기억 근거: 법률 위임의 문언상 한계를 넘어 고시가 적용 범위를 확장하면 새로운 입법으로서 위임 한계를 일탈한다는 판례 요지(사건번호 미확인)."
+    }
+   },
+   "derivation": "거짓 지문은 ④ → 옳지 않은 것 ④(=answer 4)",
+   "min_prop_confidence": 0.78,
+   "contested": false,
+   "recall_flag": false
+  }
+ ]
+}

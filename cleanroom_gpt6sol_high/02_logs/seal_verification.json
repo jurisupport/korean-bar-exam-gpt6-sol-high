@@ -1,0 +1,44 @@
+[
+  {
+    "tag": "Foff1",
+    "sha256": "0060528e7052bf69eb5f90df486dbf75dd3ae57e935fa728529f3a2e53ec8035",
+    "answers": 40,
+    "locked": true
+  },
+  {
+    "tag": "Foff2",
+    "sha256": "bc504a325e8fcbbdfe988e5fa1c8125f6f698fc4db78914ff566db4a58233996",
+    "answers": 40,
+    "locked": true
+  },
+  {
+    "tag": "Foff3",
+    "sha256": "2046cc0dcdfb45dde6723387845957ce424f6d5c81f7561f97b71e0b7f43e863",
+    "answers": 40,
+    "locked": true
+  },
+  {
+    "tag": "F1",
+    "sha256": "76f3ee3dcdfbd6ab23c27dd36158461a4b670f72087f88e329cceb3f1ba5d897",
+    "answers": 40,
+    "locked": true,
+    "deepdives_verified": 25,
+    "answers_changed": 0
+  },
+  {
+    "tag": "F2",
+    "sha256": "2bb7a91eff69c498d5f4d04033d06a121a6d7315655d8df7c965dbf718dffb6c",
+    "answers": 40,
+    "locked": true,
+    "deepdives_verified": 23,
+    "answers_changed": 0
+  },
+  {
+    "tag": "F3",
+    "sha256": "90da28e2a751bbef606d6161e4a6521708c8e0ebe7a181f15d1d32d2dc1a0376",
+    "answers": 40,
+    "locked": true,
+    "deepdives_verified": 22,
+    "answers_changed": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "authorized_at": "2026-09-24T15:31:25.075164+00:00",
+  "reason": "User corrected scope to original OFF3 + ON3; first pair is preserved.",
+  "additional_runs": [
+    2,
+    3
+  ],
+  "sequence": [
+    [
+      "off",
+      2
+    ],
+    [
+      "on",
+      2
+    ],
+    [
+      "off",
+      3
+    ],
+    [
+      "on",
+      3
+    ]
+  ],
+  "original_key_revealed_at": "2026-09-24T15:01:31.867672+00:00",
+  "revealed_key_sha256": "e1cb747ef8d59551c9c6f518be631d8b817943b759af6b44c5f7344ae6f1a4ef",
+  "first_round_seals": {
+    "off_p1": "0253b6263e5e19e3032dd4e47029b3e3abda4beef555a6aca85f5fc08768c9e5",
+    "on_p1": "a51c10798ba09a011722bdf4b89cddec08289894561145d5781bfb9612dd5f68",
+    "on-repass_p1": "47b1735fc5de97c2a1a4625fb5ed64ddd22bfee44ec08bdf26b6ec0541a7503f"
+  },
+  "frozen_solver_inputs": {
+    "00_fixtures/형사법_문항.md": "e9cfd635afdabbc6bb726742ab258edf079d1253cc5b21fdae346c916ba21c1f",
+    "on_args.json": "12184223d10003da881b76bc4e52a531c7d65eab8a370b0c0d6eb60c90da97c4",
+    "prompts/off.md": "cd11fb5358ebbf734a299cc5779b24d03f5365817e00db2a2b0e7b1376d86ec0",
+    "prompts/on-repass.md": "b40a27e51e7f25b2f600a0d21eb6dbe6b0943a13f84820d7cd60016bad60c3c6",
+    "prompts/on.md": "2e0a1a7046d2bc190b0460fcbe49c0d7cbe92f4dd66a5c1f57273ac292d7316d",
+    "tools/answer.schema.json": "707e54e38af3e1da4435f05038604d751051cb3c8c5c8587173698ba2ab53af4",
+    "tools/db8768.sh": "4f215236a0640987b83309c5171ce503f69daf2d3fc6ca2654765ed736f75828",
+    "tools/korean_law_mcp.sh": "e0a71748fab8848c492cbd9832cf8215a007eb2f1c2d0cb213a89791678b45a9",
+    "tools/prec_search.sh": "b30ce0c84a93a4beaa802d2cafe6d80c06ab0370a5f05ea7b864b68600636518"
+  }
+}

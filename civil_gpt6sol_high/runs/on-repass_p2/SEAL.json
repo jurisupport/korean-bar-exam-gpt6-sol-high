@@ -1,0 +1,15 @@
+{
+  "sealed_at": "2026-09-24T06:03:49.064152+00:00",
+  "sha256": "57c6612484300e7b464cc235b995bb4c70fe348a7aab6452dddf007f5cd60802",
+  "conditions_verified": true,
+  "files": {
+    "23-48_attempt_01/events.jsonl": "9b4903ab45bf206af84cfcbe65043aefec60fd3aabf1269874efc5e21ea3e86e",
+    "23-48_attempt_01/invocation.json": "34315974bb2c1fdde0db83b40d41882fc5de77179b9e9e8e785264026770fae3",
+    "23-48_attempt_01/prompt.md": "99da3577f2bd6bcb37f8c807500138597b246ceea9e301e3710c20f96d7f6ea9",
+    "23-48_attempt_01/response.json": "e3c0a4f589da36be1230dc5cb685682376c3316d4cd02cebebb2645b6c42d7f0",
+    "23-48_attempt_01/stderr.log": "e567541a2c8af90b788cd4a18ee5a4876ece357ca25a004375ff81d8caf92521",
+    "answers.json": "57c6612484300e7b464cc235b995bb4c70fe348a7aab6452dddf007f5cd60802",
+    "part_23-48.json": "57c6612484300e7b464cc235b995bb4c70fe348a7aab6452dddf007f5cd60802",
+    "part_23-48.seal.json": "a9120a663e6be379a55165bf2936aa041127cfdacfa12667d43031c05d541dc8"
+  }
+}

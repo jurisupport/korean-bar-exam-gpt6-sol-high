@@ -1,0 +1,21 @@
+{
+  "repository": "https://github.com/jurisupport/korean-bar-exam-agent-eval",
+  "commit": "066357fedbaf2827aa575e4880adf9baf1679fcc",
+  "sha256": {
+    "PREREG_X.txt": "bedc87123e89927cf17bee55fbc57c1035c5b3e2a635892b302b2145c9a801e4",
+    "RUNBOOK_X.md": "4ab6d0129abc99c488ecc8b4d42f5d18f9ca4481f641347ac4a9dfef01459efd",
+    "00_fixtures/공법_문항.md": "430a7396c3d359f886741aa339ce665cef5a4b34b652cbbc2f6b5f37c4b1bdd1",
+    "tools/f_off_prompt.md": "4dab62481242094b25d916f5424f74c3b0762f2fc9f1ad835b67d311e4811c4b",
+    "tools/f_batch_prompt.md": "33129ff42dc75354e74a656b6d2e35e743d94954ef12a40f2265f6d859cfb687",
+    "tools/f_deepdive_prompt.md": "490a78687908d1bb6a28ad440cc167c653c5c5456dc8cc033b9b7c3b1a677994",
+    "tools/f_deepdive_invocation.md": "71b4736c39fcb2499e80fdf852ac4aab1b19af37908ef23eaa0d57918880dac4",
+    "tools/f_vote.py": "d1aedd99f97f96b7ed9503a98f4a5bb36ae4d39b14f01103b198c02de42769ab",
+    "tools/f_merge_seal.py": "e0fb30daba81293cbc3adba3fefb4270de59aaa352112eb344f62f86b6a06fb4",
+    "tools/f_grade.py": "4b2db287796640eb0ac8eee33960b5b7f5d05a7c8c54768ad3cfcb601e9a8cbb",
+    "tools/f_prep.sh": "316e578086eb06cba39002b65c70cc7bf28eb5765aca816d16a72bd89f8c745b",
+    "tools/x_run_slots.sh": "16ac64781167c75e90593c03ec881f5ccf98b7b1dc3068c6aab666b315f777a1",
+    "tools/x_run_deepdives.sh": "142b0c53f500707392e82b6268f5b33f5ea241e6879439af3176e60dffb91261",
+    "tools/x_extract_deepdive.py": "ebd624e130067665a81e2d3db3bd68a62700f08a129e771044a2e6820c0e4035",
+    "tools/x_merge_deepdives.py": "f39b7d62fb05353e8253e06f3e8aa0bbe257e320534073890d449fbb25aebaa6"
+  }
+}

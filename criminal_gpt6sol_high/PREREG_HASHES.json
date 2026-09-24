@@ -1,0 +1,16 @@
+{
+  "00_fixtures/형사법_문항.md": "e9cfd635afdabbc6bb726742ab258edf079d1253cc5b21fdae346c916ba21c1f",
+  "CONTINUATION.json": "26b78d711ec56d51187ae449132eae6669d6f44f4ec34ef8ae731633a05d64fe",
+  "ON_ENVIRONMENT.json": "bfa84dde15b7bd8708aeea3ca7b2424df7247b1ab0ea05c54a7f3ef67f8b37d9",
+  "PREREG_AMENDMENT_02.md": "04cafc7a857fcfd31c68dfd851d2ca6d26f6c82539850a4988c87a71636333e0",
+  "on_args.json": "12184223d10003da881b76bc4e52a531c7d65eab8a370b0c0d6eb60c90da97c4",
+  "prompts/off.md": "cd11fb5358ebbf734a299cc5779b24d03f5365817e00db2a2b0e7b1376d86ec0",
+  "prompts/on-repass.md": "b40a27e51e7f25b2f600a0d21eb6dbe6b0943a13f84820d7cd60016bad60c3c6",
+  "prompts/on.md": "2e0a1a7046d2bc190b0460fcbe49c0d7cbe92f4dd66a5c1f57273ac292d7316d",
+  "tools/answer.schema.json": "707e54e38af3e1da4435f05038604d751051cb3c8c5c8587173698ba2ab53af4",
+  "tools/db8768.sh": "4f215236a0640987b83309c5171ce503f69daf2d3fc6ca2654765ed736f75828",
+  "tools/grade.py": "f6932f1c7e4950aa0afed676178533ab0f0a6cfb760fc64203ed53ea65717b72",
+  "tools/korean_law_mcp.sh": "e0a71748fab8848c492cbd9832cf8215a007eb2f1c2d0cb213a89791678b45a9",
+  "tools/prec_search.sh": "b30ce0c84a93a4beaa802d2cafe6d80c06ab0370a5f05ea7b864b68600636518",
+  "tools/run.py": "a054e381b3638ab16078ce9a96ec420649c87ce3f21e9c2f725128a65e8a5890"
+}

@@ -1,0 +1,57 @@
+{
+  "registered_at": "2026-09-22T19:25:56.823355+00:00",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "high",
+  "textbook": {
+    "url": "http://127.0.0.1:8768",
+    "docs": 18,
+    "embeddings": 17167,
+    "mode": "hybrid",
+    "db_sha256": "228d3b211facd62b4c2ba9b3709457d214bb3160e5e01971409eac82ba72040b",
+    "size": 297680896,
+    "server_sha256": "2367f64dafad98a8e59a0d5516c811b9cde330d159978bd0d035dde1ec729b25"
+  },
+  "precedent": {
+    "url": "http://127.0.0.1:8772",
+    "docs_total": 3688,
+    "docs_eligible": 3310,
+    "embeddings": 34788,
+    "max_date": "2026-01-05",
+    "mode": "hybrid",
+    "db_sha256": "c14549a126dc3e96aeb6d22be38dcc150c13ee85bf65f2d02f76fb478383c6a0"
+  },
+  "korean_law_version": "4.14.0",
+  "codex_extra_args": [
+    "-c",
+    "sandbox_workspace_write.network_access=true",
+    "-c",
+    "mcp_servers.korean_law.args=[\"-y\",\"korean-law-mcp@4.14.0\"]",
+    "-c",
+    "mcp_servers.omx_state.enabled=false",
+    "-c",
+    "mcp_servers.omx_memory.enabled=false",
+    "-c",
+    "mcp_servers.omx_code_intel.enabled=false",
+    "-c",
+    "mcp_servers.omx_trace.enabled=false",
+    "-c",
+    "mcp_servers.omx_team_run.enabled=false",
+    "-c",
+    "mcp_servers.node_repl.enabled=false",
+    "-c",
+    "mcp_servers.jurisupport.enabled=false",
+    "-c",
+    "mcp_servers.computer-use.enabled=false"
+  ],
+  "differences": [
+    "Requested model and effort changed to gpt-6-sol/high",
+    "Separate directory per slot; isolated fresh sessions, not OS read isolation",
+    "Original corpus counts and cutoff reproduced; original upstream corpus hashes were not published, so historical byte identity cannot be independently established",
+    "Precedent port 8770 -> 8772 to preserve existing service; copied server binds loopback only",
+    "Modern Korean-law API equivalent names, full=true required; live decision dates checked explicitly",
+    "Original deepdive hardcoded question list generalized from current blind vote output",
+    "Precedent-search remote skill maps to same date-filtered DB; local beopgoeul installed",
+    "Only allowed Korean-law MCP enabled for ON; workspace networking enabled for permitted DB/primary-source access",
+    "OFF finished and sealed before ON registration; no scores or answer key inspected"
+  ]
+}

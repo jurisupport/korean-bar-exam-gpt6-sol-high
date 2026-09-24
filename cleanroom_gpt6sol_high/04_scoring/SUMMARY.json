@@ -1,0 +1,123 @@
+{
+  "model": "gpt-6-sol",
+  "reasoning_effort": "high",
+  "exam": "제15회 변호사시험 공법 선택형",
+  "date_kst": "2026-09-23",
+  "scores": {
+    "Foff1": 34,
+    "Foff2": 35,
+    "Foff3": 34,
+    "F1": 40,
+    "F2": 40,
+    "F3": 40
+  },
+  "off_mean": 34.333333333333336,
+  "on_mean": 40,
+  "off_percent": 85.83333333333334,
+  "on_percent": 100.0,
+  "difference_questions": 5.666666666666664,
+  "difference_percentage_points": 14.16666666666666,
+  "recall_suspicion_threshold": 38,
+  "recall_suspicion_flag": false,
+  "self_reported_recall_questions": [],
+  "wrong_questions": {
+    "Foff1": [
+      11,
+      19,
+      26,
+      29,
+      30,
+      36
+    ],
+    "Foff2": [
+      11,
+      19,
+      23,
+      26,
+      30
+    ],
+    "Foff3": [
+      11,
+      19,
+      23,
+      26,
+      28,
+      30
+    ],
+    "F1": [],
+    "F2": [],
+    "F3": []
+  },
+  "always_wrong_off": [
+    11,
+    19,
+    26,
+    30
+  ],
+  "phases": [
+    {
+      "run": "F1",
+      "voter_scores": {
+        "V1": 40,
+        "V2": 40,
+        "V3": 40
+      },
+      "majority_score": 40,
+      "final_score": 40,
+      "deepdive_count": 25,
+      "changed_answers": [],
+      "final_gap_counts": {
+        "evidence": 6,
+        "none": 30,
+        "interpretation": 4
+      },
+      "contested_count": 19,
+      "elapsed_minutes": 49.1
+    },
+    {
+      "run": "F2",
+      "voter_scores": {
+        "V1": 39,
+        "V2": 40,
+        "V3": 39
+      },
+      "majority_score": 40,
+      "final_score": 40,
+      "deepdive_count": 23,
+      "changed_answers": [],
+      "final_gap_counts": {
+        "none": 35,
+        "evidence": 5
+      },
+      "contested_count": 16,
+      "elapsed_minutes": 46.3
+    },
+    {
+      "run": "F3",
+      "voter_scores": {
+        "V1": 40,
+        "V2": 40,
+        "V3": 39
+      },
+      "majority_score": 40,
+      "final_score": 40,
+      "deepdive_count": 22,
+      "changed_answers": [],
+      "final_gap_counts": {
+        "none": 31,
+        "evidence": 7,
+        "interpretation": 2
+      },
+      "contested_count": 19,
+      "elapsed_minutes": 56.4
+    }
+  ],
+  "valid_model_calls": 130,
+  "invalid_initial_attempts": 5,
+  "technical_incidents": [
+    "MCP startup catalog: initial5 slots excluded before scoring; required initialization added",
+    "F3 q31 output changed two non-target gap_class fields; original non-target fields restored, target record and all answer choices preserved; no model rerun"
+  ],
+  "answer_key_sha256": "69d5577e675bb90be1233b947070b23aaf3a10c8dc212619d70a1a48a42ab23a",
+  "graded_at": "2026-09-22T22:06:58.269746+00:00"
+}

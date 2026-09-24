@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-22T22:04:19.535810+00:00",
+  "type": "technical output-scope repair",
+  "target": 31,
+  "non_target_changes_discarded": {
+    "2": {
+      "field": "gap_class",
+      "before": "evidence",
+      "after": "none"
+    },
+    "3": {
+      "field": "gap_class",
+      "before": "none",
+      "after": "evidence"
+    }
+  },
+  "repair": "Restored original non-target rows; retained target31 record byte-equivalent under canonical JSON. No model rerun, answer choice change, scoring, or key access.",
+  "target_record_sha256": "8500b032a333dd5f6760260c9c8f7e4024dfa3739c242e1bc0a81f1ec1bfe7a0"
+}

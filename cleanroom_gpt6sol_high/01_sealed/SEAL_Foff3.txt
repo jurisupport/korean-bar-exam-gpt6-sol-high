@@ -1,0 +1,11 @@
+# SEAL — 클린룸 Foff3 제15회 공법 선택형 (정답표 격리 상태에서 봉인)
+봉인 시각: 2026-09-23 04:23:44 KST
+[픽스처]      430a7396c3d359f886741aa339ce665cef5a4b34b652cbbc2f6b5f37c4b1bdd1  00_fixtures/공법_문항.md
+[OFF프롬프트]  69d41fe2dc84a534e27b6290d849e1dbaab29235f4f0b8a6e211728e941b38b1  tools/f_off_prompt.md
+[배치프롬프트] 9e01e182132a66c9ca3b1f66707b408b734e6220fe11a60f7c28cbea9f691d0c  tools/f_batch_prompt.md
+[딥다이브]    efb4f45a1570fe82fcfdb4c07f9fc78fdfefd164e850a85cf82baa8367090fb7  tools/f_deepdive_prompt.md
+[봉인답안]    2046cc0dcdfb45dde6723387845957ce424f6d5c81f7561f97b71e0b7f43e863  01_sealed/Foff3.json
+답렬: 5154254145423313212113135325411432421534
+경합표시(blind): [6, 7, 9, 11, 19, 21, 23, 25, 29, 30, 32, 34, 36]
+잔차분류: 없음
+recall_flag(오염 감사, F0만): 없음
